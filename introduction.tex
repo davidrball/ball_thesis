@@ -89,7 +89,36 @@ In most cases, we assume that the resistivity is roughly constant in space so th
 We see that the effect of a finite resistivity serves to dissipate the magnetic field.  In the ideal MHD assumption, we dropped the resistive term, arguing that $\eta$ is small.  Here, however, we see that even in the limit where $\eta$ is small, if regions arise where $\nabla^2 \bold{B}$ is large, then the $\eta \nabla^2 \bold{B}$ term may end up being dynamically and energetically important to this system.  One such type of configuration that may arise is a so-called ``current sheet'', where the magnetic field reverses its direction over a small length scale.  This configuration is unstable and prone to undergo magnetic reconnection, which we will describe in more detail in the following section and will be a focus of this dissertation.
 
 \section{Magnetic Reconnection}
-Magnetic reconnection is a fundamental plasma process in which opposing field lines in a plasma that are separated by a short distance rearrange their topology, connecting with one another.  In doing so, they release magnetic energy into the ambient plasma in the form of bulk motions, heat, and in some cases, particle acceleration.  Reconnection was first formulated in the context of resistive MHD by Eugene Parker and Peter Sweet in 1956 in an attempt to explain the dynamics of solar flares.  The following dimensional argument follows their original formulations from \citet{parker1957} and \cite{sweet1958}
+Magnetic reconnection is a fundamental plasma process in which opposing field lines in a plasma that are separated by a short distance rearrange their topology, connecting with one another.  In doing so, they release magnetic energy into the ambient plasma in the form of bulk motion, heat, and in some cases, particle acceleration.  Reconnection was first formulated in the context of resistive MHD by Eugene Parker and Peter Sweet in 1956 in an attempt to explain the dynamics of solar flares.  We will now briefly review a dimensional argument that follows their original formulations from \citet{parker1957} and \cite{sweet1958} and is widely known as the ``Sweet-Parker'' model of reconnection.  Because this is not a rigorous derivation, but rather a scaling argument, we will not concern ourselves much with factors of order unity, but instead focus on the underlying physics and trends that this model uncovers.
+
+Consider a current sheet in which the x-component of the magnetic field, $B_x$, reverses direction over a distance of $\delta$ in the y-direction, along a distance $L$ in the x-direction.  On either side of the layer, the strength of the magnetic field is $B$.  This geometry will have an associated current in the z-direction with a magnitude of 
+
+\begin{equation}
+	J_{\rm{z}} = \frac{c}{4 \pi}\frac{B}{\delta}.
+\end{equation}    
+We break down this problem into two domains: outside of the current sheet and inside the current sheet, and match the electric fields at the boundary. Outside of the current sheet, the magnetic field strength is constant, and hence there is no current.  As such, the only electric field in this region is from magnetized plasma flowing towards the layer (in the y-direction), which will have a magnitude of $E_{\rm{outside}} \approx u_{\rm{in}}B$, where $u_{\rm{in}}$ is the inflow speed (the bulk velocity of plasma flowing towards the current layer in the y-direction).  Within the layer, the magnetic field goes to 0, so there is no ideal electric field.  There is, however, a current and finite resistivity.  As such, there will be a resistive electric field with magnitude 
+
+\begin{equation}
+E_{\rm{inside}} \approx \frac{c}{4\pi}\frac{\eta B}{\delta}.
+\end{equation}
+
+By matching $E_{\rm{inside}}$ to $E_{\rm{outside}}$, we can derive an expression for the inflow speed as a function of the other parameters in the setup,
+
+\begin{equation}
+	u_{\rm{in}} = \frac{c}{4 \pi} \frac{\eta B^2}{\delta}.
+\end{equation}
+
+In the geometry in which plasma is flowing towards the current layer in the outer region (in the y-direction), and plasma within the current sheet flows out along the x-direction, the equation of energy conservation of energy can be written as
+
+\begin{equation}
+	\frac{B^2}{4 \pi} = \frac{1}{2}\rho u_{\rm{out}}^2.
+\end{equation}
+
+From here, we see that the outflow speed is simply the Alfv\'en speed: 
+
+\begin{equation}
+	u_{\rm{out}}=\frac{B}{\sqrt{4\pi \rho}}
+\end{equation}
 
 Magnetic reconnection is widely thought to play an important role in the episodic flaring activity of numerous astrophysical systems, including blazar jets (\citealt{giannios2013, petropoulou2016, nalewajko2016}), pulsar wind nebulae (\citealt{coroniti1990, lyubarsky2001, zenitani2001, kirk2003, contopoulos2007, petri2008, sironi2011, cerutti2012,cerutti2014,cerutti2017, philippov2014} see \citealt{sironi2017} for a recent review), gamma ray bursts (\citealt{thompson1994, thompson2006, usov1994, spruit2001, drenkhahn2002, lyutikov2003, giannios2008}). the Sun (\citealt{forbes1996, yokoyama2001, shibata2011}), and accretion flows around black holes (\citealt{galeev1979, dimatteo1998, uzdensky2008, li2015, ball2016, li2017}).
 
