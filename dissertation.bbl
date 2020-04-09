@@ -1,0 +1,453 @@
+\begin{thebibliography}{50}
+\addcontentsline{toc}{chapter}{\bibname}
+\providecommand{\natexlab}[1]{#1}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi:\discretionary{}{}{}#1}\else
+  \providecommand{\doi}{doi:\discretionary{}{}{}\begingroup
+  \urlstyle{rm}\Url}\fi
+
+\bibitem[{{Ball} et~al.(2016){Ball}, {{\"O}zel}, {Psaltis}, and
+  {Chan}}]{ball2016}
+{Ball}, D., F.~{{\"O}zel}, D.~{Psaltis}, and C.-k. {Chan} (2016).
+\newblock {Particle Acceleration and the Origin of X-Ray Flares in GRMHD
+  Simulations of SGR A}.
+\newblock \emph{\apj}, \textbf{826}, 77.
+\newblock \doi{10.3847/0004-637X/826/1/77}.
+
+\bibitem[{{Cerutti} and {Philippov}(2017)}]{cerutti2017}
+{Cerutti}, B. and A.~A. {Philippov} (2017).
+\newblock {Dissipation of the striped pulsar wind}.
+\newblock \emph{\aap}, \textbf{607}, A134.
+\newblock \doi{10.1051/0004-6361/201731680}.
+
+\bibitem[{{Cerutti} et~al.(2012){Cerutti}, {Uzdensky}, and
+  {Begelman}}]{cerutti2012}
+{Cerutti}, B., D.~A. {Uzdensky}, and M.~C. {Begelman} (2012).
+\newblock {Extreme Particle Acceleration in Magnetic Reconnection Layers:
+  Application to the Gamma-Ray Flares in the Crab Nebula}.
+\newblock \emph{\apj}, \textbf{746}, 148.
+\newblock \doi{10.1088/0004-637X/746/2/148}.
+
+\bibitem[{{Cerutti} et~al.(2014){Cerutti}, {Werner}, {Uzdensky}, and
+  {Begelman}}]{cerutti2014}
+{Cerutti}, B., G.~R. {Werner}, D.~A. {Uzdensky}, and M.~C. {Begelman} (2014).
+\newblock {Gamma-ray flares in the Crab Nebula: A case of relativistic
+  reconnection?a)}.
+\newblock \emph{Physics of Plasmas}, \textbf{21}(5), 056501.
+\newblock \doi{10.1063/1.4872024}.
+
+\bibitem[{{Contopoulos}(2007)}]{contopoulos2007}
+{Contopoulos}, I. (2007).
+\newblock {The magnetic field topology in the reconnecting pulsar
+  magnetosphere}.
+\newblock \emph{\aap}, \textbf{472}, pp. 219--223.
+\newblock \doi{10.1051/0004-6361:20077167}.
+
+\bibitem[{{Coroniti}(1990)}]{coroniti1990}
+{Coroniti}, F.~V. (1990).
+\newblock {Magnetically striped relativistic magnetohydrodynamic winds - The
+  Crab Nebula revisited}.
+\newblock \emph{\apj}, \textbf{349}, pp. 538--545.
+\newblock \doi{10.1086/168340}.
+
+\bibitem[{{Di Matteo}(1998)}]{dimatteo1998}
+{Di Matteo}, T. (1998).
+\newblock {Magnetic reconnection: flares and coronal heating in active galactic
+  nuclei}.
+\newblock \emph{\mnras}, \textbf{299}, pp. L15--l20.
+\newblock \doi{10.1046/j.1365-8711.1998.01950.x}.
+
+\bibitem[{{Drenkhahn} and {Spruit}(2002)}]{drenkhahn2002}
+{Drenkhahn}, G. and H.~C. {Spruit} (2002).
+\newblock {Efficient acceleration and radiation in Poynting flux powered GRB
+  outflows}.
+\newblock \emph{\aap}, \textbf{391}, pp. 1141--1153.
+\newblock \doi{10.1051/0004-6361:20020839}.
+
+\bibitem[{{Eckart} et~al.(2004){Eckart}, {Baganoff}, {Morris}, {Bautz},
+  {Brandt}, {Garmire}, {Genzel}, {Ott}, {Ricker}, {Straubmeier}, {Viehmann},
+  {Sch{\"o}del}, {Bower}, and {Goldston}}]{eckart2004}
+{Eckart}, A., F.~K. {Baganoff}, M.~{Morris}, M.~W. {Bautz}, W.~N. {Brandt},
+  G.~P. {Garmire}, R.~{Genzel}, T.~{Ott}, G.~R. {Ricker}, C.~{Straubmeier},
+  T.~{Viehmann}, R.~{Sch{\"o}del}, G.~C. {Bower}, and J.~E. {Goldston} (2004).
+\newblock {First simultaneous NIR/X-ray detection of a flare from Sgr A*}.
+\newblock \emph{\aap}, \textbf{427}, pp. 1--11.
+\newblock \doi{10.1051/0004-6361:20040495}.
+
+\bibitem[{{Event Horizon Telescope Collaboration} et~al.(2019){Event Horizon
+  Telescope Collaboration}, {Akiyama}, {Alberdi}, {Alef}, {Asada}, {Azulay},
+  {Baczko}, {Ball}, {Balokovi{\'c}}, {Barrett}, {Bintley}, {Blackburn},
+  {Boland}, {Bouman}, {Bower}, {Bremer}, {Brinkerink}, {Brissenden}, {Britzen},
+  {Broderick}, {Broguiere}, {Bronzwaer}, {Byun}, {Carlstrom}, {Chael}, {Chan},
+  {Chatterjee}, {Chatterjee}, {Chen}, {Chen}, {Cho}, {Christian}, {Conway},
+  {Cordes}, {Crew}, {Cui}, {Davelaar}, {De Laurentis}, {Deane}, {Dempsey},
+  {Desvignes}, {Dexter}, {Doeleman}, {Eatough}, {Falcke}, {Fish}, {Fomalont},
+  {Fraga-Encinas}, {Friberg}, {Fromm}, {G{\'o}mez}, {Galison}, {Gammie},
+  {Garc{\'\i}a}, {Gentaz}, {Georgiev}, {Goddi}, {Gold}, {Gu}, {Gurwell},
+  {Hada}, {Hecht}, {Hesper}, {Ho}, {Ho}, {Honma}, {Huang}, {Huang}, {Hughes},
+  {Ikeda}, {Inoue}, {Issaoun}, {James}, {Jannuzi}, {Janssen}, {Jeter}, {Jiang},
+  {Johnson}, {Jorstad}, {Jung}, {Karami}, {Karuppusamy}, {Kawashima},
+  {Keating}, {Kettenis}, {Kim}, {Kim}, {Kim}, {Kino}, {Koay}, {Koch}, {Koyama},
+  {Kramer}, {Kramer}, {Krichbaum}, {Kuo}, {Lauer}, {Lee}, {Li}, {Li},
+  {Lindqvist}, {Liu}, {Liuzzo}, {Lo}, {Lobanov}, {Loinard}, {Lonsdale}, {Lu},
+  {MacDonald}, {Mao}, {Markoff}, {Marrone}, {Marscher}, {Mart{\'\i}-Vidal},
+  {Matsushita}, {Matthews}, {Medeiros}, {Menten}, {Mizuno}, {Mizuno}, {Moran},
+  {Moriyama}, {Moscibrodzka}, {M{\"u}ller}, {Nagai}, {Nagar}, {Nakamura},
+  {Narayan}, {Narayanan}, {Natarajan}, {Neri}, {Ni}, {Noutsos}, {Okino},
+  {Olivares}, {Oyama}, {{\"O}zel}, {Palumbo}, {Patel}, {Pen}, {Pesce},
+  {Pi{\'e}tu}, {Plambeck}, {PopStefanija}, {Porth}, {Prather},
+  {Preciado-L{\'o}pez}, {Psaltis}, {Pu}, {Ramakrishnan}, {Rao}, {Rawlings},
+  {Raymond}, {Rezzolla}, {Ripperda}, {Roelofs}, {Rogers}, {Ros}, {Rose},
+  {Roshanineshat}, {Rottmann}, {Roy}, {Ruszczyk}, {Ryan}, {Rygl},
+  {S{\'a}nchez}, {S{\'a}nchez-Arguelles}, {Sasada}, {Savolainen}, {Schloerb},
+  {Schuster}, {Shao}, {Shen}, {Small}, {Sohn}, {SooHoo}, {Tazaki}, {Tiede},
+  {Tilanus}, {Titus}, {Toma}, {Torne}, {Trent}, {Trippe}, {Tsuda}, {van
+  Bemmel}, {van Langevelde}, {van Rossum}, {Wagner}, {Wardle}, {Weintroub},
+  {Wex}, {Wharton}, {Wielgus}, {Wong}, {Wu}, {Young}, {Young}, {Younsi},
+  {Yuan}, {Yuan}, {Zensus}, {Zhao}, {Zhao}, {Zhu}, {Farah}, {Meyer-Zhao},
+  {Michalik}, {Nadolski}, {Nishioka}, {Pradel}, {Primiani}, {Souccar},
+  {Vertatschitsch}, and {Yamaguchi}}]{eht6}
+{Event Horizon Telescope Collaboration}, K.~{Akiyama}, A.~{Alberdi}, W.~{Alef},
+  K.~{Asada}, R.~{Azulay}, A.-K. {Baczko}, D.~{Ball}, M.~{Balokovi{\'c}},
+  J.~{Barrett}, D.~{Bintley}, L.~{Blackburn}, W.~{Boland}, K.~L. {Bouman},
+  G.~C. {Bower}, M.~{Bremer}, C.~D. {Brinkerink}, R.~{Brissenden},
+  S.~{Britzen}, A.~E. {Broderick}, D.~{Broguiere}, T.~{Bronzwaer}, D.-Y.
+  {Byun}, J.~E. {Carlstrom}, A.~{Chael}, C.-k. {Chan}, S.~{Chatterjee},
+  K.~{Chatterjee}, M.-T. {Chen}, Y.~{Chen}, I.~{Cho}, P.~{Christian}, J.~E.
+  {Conway}, J.~M. {Cordes}, G.~B. {Crew}, Y.~{Cui}, J.~{Davelaar}, M.~{De
+  Laurentis}, R.~{Deane}, J.~{Dempsey}, G.~{Desvignes}, J.~{Dexter}, S.~S.
+  {Doeleman}, R.~P. {Eatough}, H.~{Falcke}, V.~L. {Fish}, E.~{Fomalont},
+  R.~{Fraga-Encinas}, P.~{Friberg}, C.~M. {Fromm}, J.~L. {G{\'o}mez},
+  P.~{Galison}, C.~F. {Gammie}, R.~{Garc{\'\i}a}, O.~{Gentaz}, B.~{Georgiev},
+  C.~{Goddi}, R.~{Gold}, M.~{Gu}, M.~{Gurwell}, K.~{Hada}, M.~H. {Hecht},
+  R.~{Hesper}, L.~C. {Ho}, P.~{Ho}, M.~{Honma}, C.-W.~L. {Huang}, L.~{Huang},
+  D.~H. {Hughes}, S.~{Ikeda}, M.~{Inoue}, S.~{Issaoun}, D.~J. {James}, B.~T.
+  {Jannuzi}, M.~{Janssen}, B.~{Jeter}, W.~{Jiang}, M.~D. {Johnson},
+  S.~{Jorstad}, T.~{Jung}, M.~{Karami}, R.~{Karuppusamy}, T.~{Kawashima}, G.~K.
+  {Keating}, M.~{Kettenis}, J.-Y. {Kim}, J.~{Kim}, J.~{Kim}, M.~{Kino}, J.~Y.
+  {Koay}, P.~M. {Koch}, S.~{Koyama}, M.~{Kramer}, C.~{Kramer}, T.~P.
+  {Krichbaum}, C.-Y. {Kuo}, T.~R. {Lauer}, S.-S. {Lee}, Y.-R. {Li}, Z.~{Li},
+  M.~{Lindqvist}, K.~{Liu}, E.~{Liuzzo}, W.-P. {Lo}, A.~P. {Lobanov},
+  L.~{Loinard}, C.~{Lonsdale}, R.-S. {Lu}, N.~R. {MacDonald}, J.~{Mao},
+  S.~{Markoff}, D.~P. {Marrone}, A.~P. {Marscher}, I.~{Mart{\'\i}-Vidal},
+  S.~{Matsushita}, L.~D. {Matthews}, L.~{Medeiros}, K.~M. {Menten},
+  Y.~{Mizuno}, I.~{Mizuno}, J.~M. {Moran}, K.~{Moriyama}, M.~{Moscibrodzka},
+  C.~{M{\"u}ller}, H.~{Nagai}, N.~M. {Nagar}, M.~{Nakamura}, R.~{Narayan},
+  G.~{Narayanan}, I.~{Natarajan}, R.~{Neri}, C.~{Ni}, A.~{Noutsos}, H.~{Okino},
+  H.~{Olivares}, T.~{Oyama}, F.~{{\"O}zel}, D.~C.~M. {Palumbo}, N.~{Patel},
+  U.-L. {Pen}, D.~W. {Pesce}, V.~{Pi{\'e}tu}, R.~{Plambeck}, A.~a.
+  {PopStefanija}, O.~{Porth}, B.~{Prather}, J.~A. {Preciado-L{\'o}pez},
+  D.~{Psaltis}, H.-Y. {Pu}, V.~{Ramakrishnan}, R.~{Rao}, M.~G. {Rawlings},
+  A.~W. {Raymond}, L.~{Rezzolla}, B.~{Ripperda}, F.~{Roelofs}, A.~{Rogers},
+  E.~{Ros}, M.~{Rose}, A.~{Roshanineshat}, H.~{Rottmann}, A.~L. {Roy},
+  C.~{Ruszczyk}, B.~R. {Ryan}, K.~L.~J. {Rygl}, S.~{S{\'a}nchez},
+  D.~{S{\'a}nchez-Arguelles}, M.~{Sasada}, T.~{Savolainen}, F.~P. {Schloerb},
+  K.-F. {Schuster}, L.~{Shao}, Z.~{Shen}, D.~{Small}, B.~W. {Sohn},
+  J.~{SooHoo}, F.~{Tazaki}, P.~{Tiede}, R.~P.~J. {Tilanus}, M.~{Titus},
+  K.~{Toma}, P.~{Torne}, T.~{Trent}, S.~{Trippe}, S.~{Tsuda}, I.~{van Bemmel},
+  H.~J. {van Langevelde}, D.~R. {van Rossum}, J.~{Wagner}, J.~{Wardle},
+  J.~{Weintroub}, N.~{Wex}, R.~{Wharton}, M.~{Wielgus}, G.~N. {Wong}, Q.~{Wu},
+  A.~{Young}, K.~{Young}, Z.~{Younsi}, F.~{Yuan}, Y.-F. {Yuan}, J.~A. {Zensus},
+  G.~{Zhao}, S.-S. {Zhao}, Z.~{Zhu}, J.~R. {Farah}, Z.~{Meyer-Zhao},
+  D.~{Michalik}, A.~{Nadolski}, H.~{Nishioka}, N.~{Pradel}, R.~A. {Primiani},
+  K.~{Souccar}, L.~{Vertatschitsch}, and P.~{Yamaguchi} (2019).
+\newblock {First M87 Event Horizon Telescope Results. VI. The Shadow and Mass
+  of the Central Black Hole}.
+\newblock \emph{\apjl}, \textbf{875}(1), L6.
+\newblock \doi{10.3847/2041-8213/ab1141}.
+
+\bibitem[{{Forbes} and {Acton}(1996)}]{forbes1996}
+{Forbes}, T.~G. and L.~W. {Acton} (1996).
+\newblock {Reconnection and Field Line Shrinkage in Solar Flares}.
+\newblock \emph{\apj}, \textbf{459}, p. 330.
+\newblock \doi{10.1086/176896}.
+
+\bibitem[{{Galeev} et~al.(1979){Galeev}, {Rosner}, and {Vaiana}}]{galeev1979}
+{Galeev}, A.~A., R.~{Rosner}, and G.~S. {Vaiana} (1979).
+\newblock {Structured coronae of accretion disks}.
+\newblock \emph{\apj}, \textbf{229}, pp. 318--326.
+\newblock \doi{10.1086/156957}.
+
+\bibitem[{{Giannios}(2008)}]{giannios2008}
+{Giannios}, D. (2008).
+\newblock {Prompt GRB emission from gradual energy dissipation}.
+\newblock \emph{\aap}, \textbf{480}, pp. 305--312.
+\newblock \doi{10.1051/0004-6361:20079085}.
+
+\bibitem[{{Giannios}(2013)}]{giannios2013}
+{Giannios}, D. (2013).
+\newblock {Reconnection-driven plasmoids in blazars: fast flares on a slow
+  envelope}.
+\newblock \emph{\mnras}, \textbf{431}, pp. 355--363.
+\newblock \doi{10.1093/mnras/stt167}.
+
+\bibitem[{{Haggard} et~al.(2019){Haggard}, {Nynka}, {Mon}, {de la Cruz
+  Hernandez}, {Nowak}, {Heinke}, {Neilsen}, {Dexter}, {Fragile}, {Baganoff},
+  {Bower}, {Corrales}, {Coti Zelati}, {Degenaar}, {Markoff}, {Morris}, {Ponti},
+  {Rea}, {Wilms}, and {Yusef-Zadeh}}]{haggard2019}
+{Haggard}, D., M.~{Nynka}, B.~{Mon}, N.~{de la Cruz Hernandez}, M.~{Nowak},
+  C.~{Heinke}, J.~{Neilsen}, J.~{Dexter}, P.~C. {Fragile}, F.~{Baganoff}, G.~C.
+  {Bower}, L.~R. {Corrales}, F.~{Coti Zelati}, N.~{Degenaar}, S.~{Markoff},
+  M.~R. {Morris}, G.~{Ponti}, N.~{Rea}, J.~{Wilms}, and F.~{Yusef-Zadeh}
+  (2019).
+\newblock {Chandra Spectral and Timing Analysis of Sgr A*'s Brightest X-ray
+  Flares}.
+\newblock \emph{arXiv e-prints}, arXiv:1908.01781.
+
+\bibitem[{{Howes}(2010)}]{howes2010}
+{Howes}, G.~G. (2010).
+\newblock {A prescription for the turbulent heating of astrophysical plasmas}.
+\newblock \emph{\mnras}, \textbf{409}(1), pp. L104--L108.
+\newblock \doi{10.1111/j.1745-3933.2010.00958.x}.
+
+\bibitem[{{Kirk} and {Skj{\ae}raasen}(2003)}]{kirk2003}
+{Kirk}, J.~G. and O.~{Skj{\ae}raasen} (2003).
+\newblock {Dissipation in Poynting-Flux-dominated Flows: The {$\sigma$}-Problem
+  of the Crab Pulsar Wind}.
+\newblock \emph{\apj}, \textbf{591}, pp. 366--379.
+\newblock \doi{10.1086/375215}.
+
+\bibitem[{{Li} et~al.(2017){Li}, {Yuan}, and {Wang}}]{li2017}
+{Li}, Y.-P., F.~{Yuan}, and Q.~D. {Wang} (2017).
+\newblock {A magnetohydrodynamic model for multiwavelength flares from
+  Sagittarius A$^{⋆}$ (I): model and the near-infrared and X-ray flares}.
+\newblock \emph{\mnras}, \textbf{468}, pp. 2552--2568.
+\newblock \doi{10.1093/mnras/stx655}.
+
+\bibitem[{{Li} et~al.(2015){Li}, {Yuan}, {Yuan}, {Wang}, {Chen}, {Neilsen},
+  {Fang}, {Zhang}, and {Dexter}}]{li2015}
+{Li}, Y.-P., F.~{Yuan}, Q.~{Yuan}, Q.~D. {Wang}, P.~F. {Chen}, J.~{Neilsen},
+  T.~{Fang}, S.~{Zhang}, and J.~{Dexter} (2015).
+\newblock {Statistics of X-Ray Flares of Sagittarius A*: Evidence for
+  Solar-like Self-organized Criticality Phenomena}.
+\newblock \emph{\apj}, \textbf{810}, 19.
+\newblock \doi{10.1088/0004-637X/810/1/19}.
+
+\bibitem[{{Lyubarsky} and {Kirk}(2001)}]{lyubarsky2001}
+{Lyubarsky}, Y. and J.~G. {Kirk} (2001).
+\newblock {Reconnection in a Striped Pulsar Wind}.
+\newblock \emph{\apj}, \textbf{547}, pp. 437--448.
+\newblock \doi{10.1086/318354}.
+
+\bibitem[{{Lyutikov} and {Blandford}(2003)}]{lyutikov2003}
+{Lyutikov}, M. and R.~{Blandford} (2003).
+\newblock {Gamma Ray Bursts as Electromagnetic Outflows}.
+\newblock \emph{ArXiv Astrophysics e-prints}.
+
+\bibitem[{{Mahadevan}(1998)}]{mahadevan1998}
+{Mahadevan}, R. (1998).
+\newblock {Reconciling the spectrum of Sagittarius A$^{*}$ with a
+  two-temperature plasma model}.
+\newblock \emph{\nat}, \textbf{394}, pp. 651--653.
+\newblock \doi{10.1038/29241}.
+
+\bibitem[{{Marrone} et~al.(2008){Marrone}, {Baganoff}, {Morris}, {Moran},
+  {Ghez}, {Hornstein}, {Dowell}, {Mu{\~n}oz}, {Bautz}, {Ricker}, {Brandt},
+  {Garmire}, {Lu}, {Matthews}, {Zhao}, {Rao}, and {Bower}}]{marrone2008}
+{Marrone}, D.~P., F.~K. {Baganoff}, M.~R. {Morris}, J.~M. {Moran}, A.~M.
+  {Ghez}, S.~D. {Hornstein}, C.~D. {Dowell}, D.~J. {Mu{\~n}oz}, M.~W. {Bautz},
+  G.~R. {Ricker}, W.~N. {Brandt}, G.~P. {Garmire}, J.~R. {Lu}, K.~{Matthews},
+  J.~H. {Zhao}, R.~{Rao}, and G.~C. {Bower} (2008).
+\newblock {An X-Ray, Infrared, and Submillimeter Flare of Sagittarius A*}.
+\newblock \emph{\apj}, \textbf{682}(1), pp. 373--383.
+\newblock \doi{10.1086/588806}.
+
+\bibitem[{{Nalewajko}(2016)}]{nalewajko2016}
+{Nalewajko}, K. (2016).
+\newblock {Applying Relativistic Reconnection to Blazar Jets}.
+\newblock \emph{Galaxies}, \textbf{4}, p.~28.
+\newblock \doi{10.3390/galaxies4030028}.
+
+\bibitem[{{Neilsen} et~al.(2013){Neilsen}, {Nowak}, {Gammie}, {Dexter},
+  {Markoff}, {Haggard}, {Nayakshin}, {Wang}, {Grosso}, {Porquet}, {Tomsick},
+  {Degenaar}, {Fragile}, {Houck}, {Wijnands}, {Miller}, and
+  {Baganoff}}]{neilsen2013}
+{Neilsen}, J., M.~A. {Nowak}, C.~{Gammie}, J.~{Dexter}, S.~{Markoff},
+  D.~{Haggard}, S.~{Nayakshin}, Q.~D. {Wang}, N.~{Grosso}, D.~{Porquet}, J.~A.
+  {Tomsick}, N.~{Degenaar}, P.~C. {Fragile}, J.~C. {Houck}, R.~{Wijnands},
+  J.~M. {Miller}, and F.~K. {Baganoff} (2013).
+\newblock {A Chandra/HETGS Census of X-Ray Variability from Sgr A* during
+  2012}.
+\newblock \emph{\apj}, \textbf{774}, 42.
+\newblock \doi{10.1088/0004-637X/774/1/42}.
+
+\bibitem[{{{\"O}zel} et~al.(2000){{\"O}zel}, {Psaltis}, and
+  {Narayan}}]{ozel2000}
+{{\"O}zel}, F., D.~{Psaltis}, and R.~{Narayan} (2000).
+\newblock {Hybrid Thermal-Nonthermal Synchrotron Emission from Hot Accretion
+  Flows}.
+\newblock \emph{\apj}, \textbf{541}, pp. 234--249.
+\newblock \doi{10.1086/309396}.
+
+\bibitem[{Parker(1957)}]{parker1957}
+Parker, E.~N. (1957).
+\newblock Sweet's mechanism for merging magnetic fields in conducting fluids.
+\newblock \emph{Journal of Geophysical Research (1896-1977)}, \textbf{62}(4),
+  pp. 509--520.
+\newblock \doi{10.1029/JZ062i004p00509}.
+
+\bibitem[{{P{\'e}tri} and {Lyubarsky}(2008)}]{petri2008}
+{P{\'e}tri}, J. and Y.~{Lyubarsky} (2008).
+\newblock {Magnetic reconnection at the termination shock in a striped pulsar
+  wind}.
+\newblock In {Bassa}, C., Z.~{Wang}, A.~{Cumming}, and V.~M. {Kaspi} (eds.)
+  \emph{40 Years of Pulsars: Millisecond Pulsars, Magnetars and More}, volume
+  983 of \emph{American Institute of Physics Conference Series}, pp. 207--209.
+\newblock \doi{10.1063/1.2900142}.
+
+\bibitem[{{Petropoulou} et~al.(2016){Petropoulou}, {Giannios}, and
+  {Sironi}}]{petropoulou2016}
+{Petropoulou}, M., D.~{Giannios}, and L.~{Sironi} (2016).
+\newblock {Blazar flares powered by plasmoids in relativistic reconnection}.
+\newblock \emph{\mnras}, \textbf{462}, pp. 3325--3343.
+\newblock \doi{10.1093/mnras/stw1832}.
+
+\bibitem[{{Philippov} and {Spitkovsky}(2014)}]{philippov2014}
+{Philippov}, A.~A. and A.~{Spitkovsky} (2014).
+\newblock {Ab Initio Pulsar Magnetosphere: Three-dimensional Particle-in-cell
+  Simulations of Axisymmetric Pulsars}.
+\newblock \emph{\apjl}, \textbf{785}, L33.
+\newblock \doi{10.1088/2041-8205/785/2/L33}.
+
+\bibitem[{{Ponti} et~al.(2015){Ponti}, {De Marco}, {Morris}, {Merloni},
+  {Mu{\~n}oz-Darias}, {Clavel}, {Haggard}, {Zhang}, {Nandra}, {Gillessen},
+  {Mori}, {Neilsen}, {Rea}, {Degenaar}, {Terrier}, and {Goldwurm}}]{ponti2015}
+{Ponti}, G., B.~{De Marco}, M.~R. {Morris}, A.~{Merloni},
+  T.~{Mu{\~n}oz-Darias}, M.~{Clavel}, D.~{Haggard}, S.~{Zhang}, K.~{Nandra},
+  S.~{Gillessen}, K.~{Mori}, J.~{Neilsen}, N.~{Rea}, N.~{Degenaar},
+  R.~{Terrier}, and A.~{Goldwurm} (2015).
+\newblock {Fifteen years of XMM-Newton and Chandra monitoring of Sgr A$^{★}$:
+  evidence for a recent increase in the bright flaring rate}.
+\newblock \emph{\mnras}, \textbf{454}, pp. 1525--1544.
+\newblock \doi{10.1093/mnras/stv1537}.
+
+\bibitem[{{Quataert} et~al.(1999){Quataert}, {Narayan}, and
+  {Reid}}]{quataert1999b}
+{Quataert}, E., R.~{Narayan}, and M.~J. {Reid} (1999).
+\newblock {What Is the Accretion Rate in Sagittarius A*?}
+\newblock \emph{\apjl}, \textbf{517}(2), pp. L101--L104.
+\newblock \doi{10.1086/312035}.
+
+\bibitem[{{Rowan} et~al.(2017){Rowan}, {Sironi}, and {Narayan}}]{rowan2017}
+{Rowan}, M.~E., L.~{Sironi}, and R.~{Narayan} (2017).
+\newblock {Electron and proton heating in trans-relativistic magnetic
+  reconnection}.
+\newblock \emph{ArXiv e-prints}.
+
+\bibitem[{{Schwarzschild}(1916)}]{schwarzschild1916}
+{Schwarzschild}, K. (1916).
+\newblock {On the Gravitational Field of a Mass Point According to Einstein's
+  Theory}.
+\newblock \emph{Abh. Konigl. Preuss. Akad. Wissenschaften Jahre 1906,92,
+  Berlin,1907}, \textbf{1916}, pp. 189--196.
+
+\bibitem[{{Shaposhnikov} and {Titarchuk}(2009)}]{smallbh}
+{Shaposhnikov}, N. and L.~{Titarchuk} (2009).
+\newblock {Determination of Black Hole Masses in Galactic Black Hole Binaries
+  Using Scaling of Spectral and Variability Characteristics}.
+\newblock \emph{\apj}, \textbf{699}(1), pp. 453--468.
+\newblock \doi{10.1088/0004-637X/699/1/453}.
+
+\bibitem[{Shibata and Magara(2011)}]{shibata2011}
+Shibata, K. and T.~Magara (2011).
+\newblock Solar Flares: Magnetohydrodynamic Processes.
+\newblock \emph{Living Reviews in Solar Physics}, \textbf{8}(1), p.~6.
+\newblock ISSN 1614-4961.
+\newblock \doi{10.12942/lrsp-2011-6}.
+
+\bibitem[{{Sironi} and {Cerutti}(2017)}]{sironi2017}
+{Sironi}, L. and B.~{Cerutti} (2017).
+\newblock {Particle Acceleration in Pulsar Wind Nebulae: PIC modelling}.
+\newblock \emph{ArXiv e-prints}.
+
+\bibitem[{{Sironi} and {Spitkovsky}(2011)}]{sironi2011}
+{Sironi}, L. and A.~{Spitkovsky} (2011).
+\newblock {Particle Acceleration in Relativistic Magnetized Collisionless
+  Electron-Ion Shocks}.
+\newblock \emph{\apj}, \textbf{726}, 75.
+\newblock \doi{10.1088/0004-637X/726/2/75}.
+
+\bibitem[{{Spruit} et~al.(2001){Spruit}, {Daigne}, and
+  {Drenkhahn}}]{spruit2001}
+{Spruit}, H.~C., F.~{Daigne}, and G.~{Drenkhahn} (2001).
+\newblock {Large scale magnetic fields and their dissipation in GRB fireballs}.
+\newblock \emph{\aap}, \textbf{369}, pp. 694--705.
+\newblock \doi{10.1051/0004-6361:20010131}.
+
+\bibitem[{{Sweet}(1958)}]{sweet1958}
+{Sweet}, P.~A. (1958).
+\newblock {The Neutral Point Theory of Solar Flares}.
+\newblock In {Lehnert}, B. (ed.) \emph{Electromagnetic Phenomena in Cosmical
+  Physics}, volume~6 of \emph{IAU Symposium}, p. 123.
+
+\bibitem[{{Thompson}(1994)}]{thompson1994}
+{Thompson}, C. (1994).
+\newblock {A Model of Gamma-Ray Bursts}.
+\newblock \emph{\mnras}, \textbf{270}, p. 480.
+\newblock \doi{10.1093/mnras/270.3.480}.
+
+\bibitem[{{Thompson}(2006)}]{thompson2006}
+{Thompson}, C. (2006).
+\newblock {Deceleration of a Relativistic, Photon-rich Shell: End of
+  Preacceleration, Damping of Magnetohydrodynamic Turbulence, and the Emission
+  Mechanism of Gamma-Ray Bursts}.
+\newblock \emph{\apj}, \textbf{651}, pp. 333--365.
+\newblock \doi{10.1086/505290}.
+
+\bibitem[{{Usov}(1994)}]{usov1994}
+{Usov}, V.~V. (1994).
+\newblock {On the Nature of Nonthermal Radiation from Cosmological Gamma-Ray
+  Bursters}.
+\newblock \emph{\mnras}, \textbf{267}, p. 1035.
+\newblock \doi{10.1093/mnras/267.4.1035}.
+
+\bibitem[{{Uzdensky} and {Goodman}(2008)}]{uzdensky2008}
+{Uzdensky}, D.~A. and J.~{Goodman} (2008).
+\newblock {Statistical Description of a Magnetized Corona above a Turbulent
+  Accretion Disk}.
+\newblock \emph{\apj}, \textbf{682}, 608-629.
+\newblock \doi{10.1086/588812}.
+
+\bibitem[{{Wang} and {Yuan}(2016)}]{wang2016}
+{Wang}, D. and Q.~{Yuan} (2016).
+\newblock {X-ray flare properties of Sgr A*}.
+\newblock In \emph{AAS/High Energy Astrophysics Division}, volume~15 of
+  \emph{AAS/High Energy Astrophysics Division}, p. 109.09.
+
+\bibitem[{Witzel et~al.(2013)Witzel, Morris, Ghez, Meyer, Becklin, Matthews,
+  Lu, Do, and Campbell}]{witzel2013}
+Witzel, G., M.~Morris, A.~Ghez, L.~Meyer, E.~Becklin, K.~Matthews, J.~R. Lu,
+  T.~Do, and R.~Campbell (2013).
+\newblock Near infrared variability of Sgr A* - spectral index measurements.
+\newblock In \emph{The Galactic Center: Feeding and Feedback in a Normal
+  Galactic Nucleus}, volume~9 of \emph{Proceedings of the International
+  Astronomical Union}, pp. 274--282.
+\newblock \doi{10.1017/S1743921314000738}.
+
+\bibitem[{Yokoyama et~al.(2001)Yokoyama, Akita, Morimoto, Inoue, and
+  Newmark}]{yokoyama2001}
+Yokoyama, T., K.~Akita, T.~Morimoto, K.~Inoue, and J.~Newmark (2001).
+\newblock Clear Evidence of Reconnection Inflow of a Solar Flare.
+\newblock \emph{The Astrophysical Journal Letters}, \textbf{546}(1), p. L69.
+
+\bibitem[{{Yuan} and {Narayan}(2014)}]{yuan2014}
+{Yuan}, F. and R.~{Narayan} (2014).
+\newblock {Hot Accretion Flows Around Black Holes}.
+\newblock \emph{\araa}, \textbf{52}, pp. 529--588.
+\newblock \doi{10.1146/annurev-astro-082812-141003}.
+
+\bibitem[{{Yuan} et~al.(2003){Yuan}, {Quataert}, and {Narayan}}]{yuan2003}
+{Yuan}, F., E.~{Quataert}, and R.~{Narayan} (2003).
+\newblock {Nonthermal Electrons in Radiatively Inefficient Accretion Flow
+  Models of Sagittarius A*}.
+\newblock \emph{\apj}, \textbf{598}, pp. 301--312.
+\newblock \doi{10.1086/378716}.
+
+\bibitem[{{Zenitani} and {Hoshino}(2001)}]{zenitani2001}
+{Zenitani}, S. and M.~{Hoshino} (2001).
+\newblock {The Generation of Nonthermal Particles in the Relativistic Magnetic
+  Reconnection of Pair Plasmas}.
+\newblock \emph{\apjl}, \textbf{562}, pp. L63--L66.
+\newblock \doi{10.1086/337972}.
+
+\end{thebibliography}
