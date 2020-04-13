@@ -6,9 +6,20 @@
 \BOOKMARK [2][-]{subsection.1.3.1}{Shortcomings of the MHD approximations}{section.1.3}% 6
 \BOOKMARK [1][-]{section.1.4}{Magnetic Reconnection}{chapter.1}% 7
 \BOOKMARK [1][-]{section.1.5}{Particle-in-Cell Simulations}{chapter.1}% 8
-\BOOKMARK [0][-]{chapter.2}{CHAPTER Nonthermal Electrons in GRMHD: a Phenomenological Model of X-Ray Flares from Sgr A*}{}% 9
-\BOOKMARK [0][-]{chapter.3}{CHAPTER Quantifying Reconnection Current Sheets in GRMHD Simulations of Sgr A*}{}% 10
-\BOOKMARK [0][-]{chapter.4}{CHAPTER Electron and Proton Acceleration in Trans-relativistic Magnetic Reconnection: Dependence on Plasma Beta and Magnetization}{}% 11
-\BOOKMARK [0][-]{chapter.5}{CHAPTER The Mechanism of Electron Injection and Acceleration in Trans-relativistic Reconnection}{}% 12
-\BOOKMARK [0][-]{appendix.A}{APPENDIX Extra Stuff}{}% 13
-\BOOKMARK [0][-]{appendix*.7}{REFERENCES}{}% 14
+\BOOKMARK [2][-]{subsection.1.5.1}{Particle Pushing}{section.1.5}% 9
+\BOOKMARK [2][-]{subsection.1.5.2}{Field Solving}{section.1.5}% 10
+\BOOKMARK [2][-]{subsection.1.5.3}{Interpolation and Particle Shape}{section.1.5}% 11
+\BOOKMARK [0][-]{chapter.2}{CHAPTER chapter2}{}% 12
+\BOOKMARK [1][-]{section.2.1}{Background}{chapter.2}% 13
+\BOOKMARK [1][-]{section.2.2}{GRMHD models}{chapter.2}% 14
+\BOOKMARK [1][-]{section.2.3}{Incorporating Non-Thermal Electrons}{chapter.2}% 15
+\BOOKMARK [2][-]{subsection.2.3.1}{Injection of Non-Thermal Electrons}{section.2.3}% 16
+\BOOKMARK [2][-]{subsection.2.3.2}{Radiative Cooling of Power-Law Electrons}{section.2.3}% 17
+\BOOKMARK [1][-]{section.2.4}{Quiescent Constraints}{chapter.2}% 18
+\BOOKMARK [1][-]{section.2.5}{X-Ray Variability: Stochastic Injection}{chapter.2}% 19
+\BOOKMARK [1][-]{section.2.6}{Comparison to Observations}{chapter.2}% 20
+\BOOKMARK [1][-]{section.2.7}{Conclusions}{chapter.2}% 21
+\BOOKMARK [0][-]{chapter.3}{CHAPTER Quantifying Reconnection Current Sheets in GRMHD Simulations of Sgr A*}{}% 22
+\BOOKMARK [0][-]{chapter.4}{CHAPTER Electron and Proton Acceleration in Trans-relativistic Magnetic Reconnection: Dependence on Plasma Beta and Magnetization}{}% 23
+\BOOKMARK [0][-]{chapter.5}{CHAPTER The Mechanism of Electron Injection and Acceleration in Trans-relativistic Reconnection}{}% 24
+\BOOKMARK [0][-]{appendix.A}{APPENDIX Extra Stuff}{}% 25
