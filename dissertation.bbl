@@ -1,4 +1,4 @@
-\begin{thebibliography}{50}
+\begin{thebibliography}{123}
 \addcontentsline{toc}{chapter}{\bibname}
 \providecommand{\natexlab}[1]{#1}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -13,6 +13,59 @@
   Simulations of SGR A}.
 \newblock \emph{\apj}, \textbf{826}, 77.
 \newblock \doi{10.3847/0004-637X/826/1/77}.
+
+\bibitem[{{Ball} et~al.(2018{\natexlab{a}}){Ball}, {{\"O}zel}, {Psaltis},
+  {Chan}, and {Sironi}}]{ball2017}
+{Ball}, D., F.~{{\"O}zel}, D.~{Psaltis}, C.-K. {Chan}, and L.~{Sironi}
+  (2018{\natexlab{a}}).
+\newblock {The Properties of Reconnection Current Sheets in GRMHD Simulations
+  of Radiatively Inefficient Accretion Flows}.
+\newblock \emph{\apj}, \textbf{853}(2), 184.
+\newblock \doi{10.3847/1538-4357/aaa42f}.
+
+\bibitem[{{Ball} et~al.(2018{\natexlab{b}}){Ball}, {Sironi}, and
+  {{\"O}zel}}]{ball2018}
+{Ball}, D., L.~{Sironi}, and F.~{{\"O}zel} (2018{\natexlab{b}}).
+\newblock {Electron and Proton Acceleration in Trans-relativistic Magnetic
+  Reconnection: Dependence on Plasma Beta and Magnetization}.
+\newblock \emph{\apj}, \textbf{862}, 80.
+\newblock \doi{10.3847/1538-4357/aac820}.
+
+\bibitem[{{Barri{\`e}re} et~al.(2014){Barri{\`e}re}, {Tomsick}, {Baganoff},
+  {Boggs}, {Christensen}, {Craig}, {Dexter}, {Grefenstette}, {Hailey},
+  {Harrison}, {Madsen}, {Mori}, {Stern}, {Zhang}, {Zhang}, and
+  {Zoglauer}}]{barriere2014}
+{Barri{\`e}re}, N.~M., J.~A. {Tomsick}, F.~K. {Baganoff}, S.~E. {Boggs}, F.~E.
+  {Christensen}, W.~W. {Craig}, J.~{Dexter}, B.~{Grefenstette}, C.~J. {Hailey},
+  F.~A. {Harrison}, K.~K. {Madsen}, K.~{Mori}, D.~{Stern}, W.~W. {Zhang},
+  S.~{Zhang}, and A.~{Zoglauer} (2014).
+\newblock {NuSTAR Detection of High-energy X-Ray Emission and Rapid Variability
+  from Sagittarius A$^{sstarf}$ Flares}.
+\newblock \emph{\apj}, \textbf{786}, 46.
+\newblock \doi{10.1088/0004-637X/786/1/46}.
+
+\bibitem[{{Bower} et~al.(2015){Bower}, {Markoff}, {Dexter}, {Gurwell}, {Moran},
+  {Brunthaler}, {Falcke}, {Fragile}, {Maitra}, {Marrone}, {Peck}, {Rushton},
+  and {Wright}}]{bower2015}
+{Bower}, G.~C., S.~{Markoff}, J.~{Dexter}, M.~A. {Gurwell}, J.~M. {Moran},
+  A.~{Brunthaler}, H.~{Falcke}, P.~C. {Fragile}, D.~{Maitra}, D.~{Marrone},
+  A.~{Peck}, A.~{Rushton}, and M.~C.~H. {Wright} (2015).
+\newblock {Radio and Millimeter Monitoring of Sgr A*: Spectrum, Variability,
+  and Constraints on the G2 Encounter}.
+\newblock \emph{\apj}, \textbf{802}(1), 69.
+\newblock \doi{10.1088/0004-637X/802/1/69}.
+
+\bibitem[{{Brittnacher} et~al.(1995){Brittnacher}, {Quest}, and
+  {Karimabadi}}]{brittnacher1995}
+{Brittnacher}, M., K.~B. {Quest}, and H.~{Karimabadi} (1995).
+\newblock {A new approach to the linear theory of single-species tearing in
+  two-dimensional quasi-neutral sheets}.
+\newblock \emph{\jgr}, \textbf{100}, pp. 3551--3562.
+\newblock \doi{10.1029/94JA02743}.
+
+\bibitem[{{Buneman}(1993)}]{buneman1993}
+{Buneman}, O. (1993).
+\newblock {in``Computer Space Plasma Physics'', Terra Scientific, Tokyo, 67}.
 
 \bibitem[{{Cerutti} and {Philippov}(2017)}]{cerutti2017}
 {Cerutti}, B. and A.~A. {Philippov} (2017).
@@ -36,6 +89,61 @@
 \newblock \emph{Physics of Plasmas}, \textbf{21}(5), 056501.
 \newblock \doi{10.1063/1.4872024}.
 
+\bibitem[{{Chael} et~al.(2017){Chael}, {Narayan}, and {Sadowski}}]{chael2017}
+{Chael}, A., R.~{Narayan}, and A.~{Sadowski} (2017).
+\newblock {Evolving Nonthermal Electrons in Simulations of Black Hole
+  Accretion}.
+\newblock \emph{ArXiv e-prints}.
+
+\bibitem[{{Chan} et~al.(2013){Chan}, {Psaltis}, and {{\"O}zel}}]{chan2013}
+{Chan}, C.-k., D.~{Psaltis}, and F.~{{\"O}zel} (2013).
+\newblock {GRay: A Massively Parallel GPU-based Code for Ray Tracing in
+  Relativistic Spacetimes}.
+\newblock \emph{\apj}, \textbf{777}, 13.
+\newblock \doi{10.1088/0004-637X/777/1/13}.
+
+\bibitem[{{Chan} et~al.(2015{\natexlab{a}}){Chan}, {Psaltis}, {{\"O}zel},
+  {Medeiros}, {Marrone}, {Sa{\c d}owski}, and {Narayan}}]{chan2015b}
+{Chan}, C.-k., D.~{Psaltis}, F.~{{\"O}zel}, L.~{Medeiros}, D.~{Marrone},
+  A.~{Sa{\c d}owski}, and R.~{Narayan} (2015{\natexlab{a}}).
+\newblock {Fast Variability and Millimeter/IR Flares in GRMHD Models of Sgr A*
+  from Strong-field Gravitational Lensing}.
+\newblock \emph{\apj}, \textbf{812}, 103.
+\newblock \doi{10.1088/0004-637X/812/2/103}.
+
+\bibitem[{{Chan} et~al.(2015{\natexlab{b}}){Chan}, {Psaltis}, {{\"O}zel},
+  {Narayan}, and {Sa{\c d}owski}}]{chan2015a}
+{Chan}, C.-K., D.~{Psaltis}, F.~{{\"O}zel}, R.~{Narayan}, and A.~{Sa{\c
+  d}owski} (2015{\natexlab{b}}).
+\newblock {The Power of Imaging: Constraining the Plasma Properties of GRMHD
+  Simulations using EHT Observations of Sgr A*}.
+\newblock \emph{\apj}, \textbf{799}, 1.
+\newblock \doi{10.1088/0004-637X/799/1/1}.
+
+\bibitem[{{Chandrasekhar}(1939)}]{chandrasekhar1939}
+{Chandrasekhar}, S. (1939).
+\newblock \emph{{An introduction to the study of stellar structure}}.
+
+\bibitem[{{Comisso} et~al.(2016){Comisso}, {Lingam}, {Huang}, and
+  {Bhattacharjee}}]{comisso2016}
+{Comisso}, L., M.~{Lingam}, Y.-M. {Huang}, and A.~{Bhattacharjee} (2016).
+\newblock {General theory of the plasmoid instability}.
+\newblock \emph{Physics of Plasmas}, \textbf{23}(10), 100702.
+\newblock \doi{10.1063/1.4964481}.
+
+\bibitem[{{Comisso} and {Sironi}(2018)}]{comisso2018}
+{Comisso}, L. and L.~{Sironi} (2018).
+\newblock {Particle Acceleration in Relativistic Plasma Turbulence}.
+\newblock \emph{\prl}, \textbf{121}(25), 255101.
+\newblock \doi{10.1103/PhysRevLett.121.255101}.
+
+\bibitem[{{Comisso} and {Sironi}(2019)}]{comisso2019}
+{Comisso}, L. and L.~{Sironi} (2019).
+\newblock {The Interplay of Magnetically Dominated Turbulence and Magnetic
+  Reconnection in Producing Nonthermal Particles}.
+\newblock \emph{\apj}, \textbf{886}(2), 122.
+\newblock \doi{10.3847/1538-4357/ab4c33}.
+
 \bibitem[{{Contopoulos}(2007)}]{contopoulos2007}
 {Contopoulos}, I. (2007).
 \newblock {The magnetic field topology in the reconnecting pulsar
@@ -50,12 +158,74 @@
 \newblock \emph{\apj}, \textbf{349}, pp. 538--545.
 \newblock \doi{10.1086/168340}.
 
+\bibitem[{{Dahlin} et~al.(2014){Dahlin}, {Drake}, and {Swisdak}}]{dahlin2014}
+{Dahlin}, J.~T., J.~F. {Drake}, and M.~{Swisdak} (2014).
+\newblock {The mechanisms of electron heating and acceleration during magnetic
+  reconnection}.
+\newblock \emph{Physics of Plasmas}, \textbf{21}(9), 092304.
+\newblock \doi{10.1063/1.4894484}.
+
+\bibitem[{{Dahlin} et~al.(2016){Dahlin}, {Drake}, and {Swisdak}}]{dahlin2016}
+{Dahlin}, J.~T., J.~F. {Drake}, and M.~{Swisdak} (2016).
+\newblock {The Scaling of Electron Acceleration in Magnetic Reconnection wit\ h
+  a Guide Field}.
+\newblock \emph{ArXiv e-prints}.
+
+\bibitem[{Daughton et~al.(2014)Daughton, Nakamura, Karimabadi, Roytershteyn,
+  and Loring}]{daughton2014}
+Daughton, W., T.~K.~M. Nakamura, H.~Karimabadi, V.~Roytershteyn, and B.~Loring
+  (2014).
+\newblock Computing the reconnection rate in turbulent kinetic layers by using
+  electron mixing to identify topology.
+\newblock \emph{Physics of Plasmas}, \textbf{21}(5), p. 052307.
+\newblock \doi{10.1063/1.4875730}.
+
+\bibitem[{{Dexter} et~al.(2012){Dexter}, {Agol}, {Fragile}, and
+  {McKinney}}]{dexter2012}
+{Dexter}, J., E.~{Agol}, P.~C. {Fragile}, and J.~C. {McKinney} (2012).
+\newblock {Radiative Models of Sagittarius A* and M87 from Relativistic MHD
+  Simulations}.
+\newblock \emph{Journal of Physics Conference Series}, \textbf{372}(1), 012023.
+\newblock \doi{10.1088/1742-6596/372/1/012023}.
+
 \bibitem[{{Di Matteo}(1998)}]{dimatteo1998}
 {Di Matteo}, T. (1998).
 \newblock {Magnetic reconnection: flares and coronal heating in active galactic
   nuclei}.
 \newblock \emph{\mnras}, \textbf{299}, pp. L15--l20.
 \newblock \doi{10.1046/j.1365-8711.1998.01950.x}.
+
+\bibitem[{{Dodds-Eden} et~al.(2010){Dodds-Eden}, {Sharma}, {Quataert},
+  {Genzel}, {Gillessen}, {Eisenhauer}, and {Porquet}}]{dodds-eden2010}
+{Dodds-Eden}, K., P.~{Sharma}, E.~{Quataert}, R.~{Genzel}, S.~{Gillessen},
+  F.~{Eisenhauer}, and D.~{Porquet} (2010).
+\newblock {Time-Dependent Models of Flares from Sagittarius A*}.
+\newblock \emph{\apj}, \textbf{725}, pp. 450--465.
+\newblock \doi{10.1088/0004-637X/725/1/450}.
+
+\bibitem[{{Drake} et~al.(2006){Drake}, {Swisdak}, {Che}, and
+  {Shay}}]{drake2006}
+{Drake}, J.~F., M.~{Swisdak}, H.~{Che}, and M.~A. {Shay} (2006).
+\newblock {Electron acceleration from contracting magnetic islands during
+  reconnection}.
+\newblock \emph{\nat}, \textbf{443}, pp. 553--556.
+\newblock \doi{10.1038/nature05116}.
+
+\bibitem[{{Drake} et~al.(2013){Drake}, {Swisdak}, and {Fermo}}]{drake2013}
+{Drake}, J.~F., M.~{Swisdak}, and R.~{Fermo} (2013).
+\newblock {The Power-law Spectra of Energetic Particles during Multi-island
+  Magnetic Reconnection}.
+\newblock \emph{\apjl}, \textbf{763}, L5.
+\newblock \doi{10.1088/2041-8205/763/1/L5}.
+
+\bibitem[{{Drappeau} et~al.(2013){Drappeau}, {Dibi}, {Dexter}, {Markoff}, and
+  {Fragile}}]{drappeau2013}
+{Drappeau}, S., S.~{Dibi}, J.~{Dexter}, S.~{Markoff}, and P.~C. {Fragile}
+  (2013).
+\newblock {Self-consistent spectra from radiative GRMHD simulations of
+  accretion on to Sgr A*}.
+\newblock \emph{\mnras}, \textbf{431}, pp. 2872--2884.
+\newblock \doi{10.1093/mnras/stt388}.
 
 \bibitem[{{Drenkhahn} and {Spruit}(2002)}]{drenkhahn2002}
 {Drenkhahn}, G. and H.~C. {Spruit} (2002).
@@ -73,6 +243,20 @@
 \newblock {First simultaneous NIR/X-ray detection of a flare from Sgr A*}.
 \newblock \emph{\aap}, \textbf{427}, pp. 1--11.
 \newblock \doi{10.1051/0004-6361:20040495}.
+
+\bibitem[{{Eckart} et~al.(2006){Eckart}, {Baganoff}, {Sch{\"o}del}, {Morris},
+  {Genzel}, {Bower}, {Marrone}, {Moran}, {Viehmann}, {Bautz}, {Brandt},
+  {Garmire}, {Ott}, {Trippe}, {Ricker}, {Straubmeier}, {Roberts},
+  {Yusef-Zadeh}, {Zhao}, and {Rao}}]{eckart2006}
+{Eckart}, A., F.~K. {Baganoff}, R.~{Sch{\"o}del}, M.~{Morris}, R.~{Genzel},
+  G.~C. {Bower}, D.~{Marrone}, J.~M. {Moran}, T.~{Viehmann}, M.~W. {Bautz},
+  W.~N. {Brandt}, G.~P. {Garmire}, T.~{Ott}, S.~{Trippe}, G.~R. {Ricker},
+  C.~{Straubmeier}, D.~A. {Roberts}, F.~{Yusef-Zadeh}, J.~H. {Zhao}, and
+  R.~{Rao} (2006).
+\newblock {The flare activity of Sagittarius A*. New coordinated mm to X-ray
+  observations}.
+\newblock \emph{\aap}, \textbf{450}, pp. 535--555.
+\newblock \doi{10.1051/0004-6361:20054418}.
 
 \bibitem[{{Event Horizon Telescope Collaboration} et~al.(2019){Event Horizon
   Telescope Collaboration}, {Akiyama}, {Alberdi}, {Alef}, {Asada}, {Azulay},
@@ -168,6 +352,30 @@
 \newblock \emph{\apj}, \textbf{229}, pp. 318--326.
 \newblock \doi{10.1086/156957}.
 
+\bibitem[{{Gammie} et~al.(2003){Gammie}, {McKinney}, and
+  {T{\'o}th}}]{gammie2003}
+{Gammie}, C.~F., J.~C. {McKinney}, and G.~{T{\'o}th} (2003).
+\newblock {HARM: A Numerical Scheme for General Relativistic
+  Magnetohydrodynamics}.
+\newblock \emph{\apj}, \textbf{589}, pp. 444--457.
+\newblock \doi{10.1086/374594}.
+
+\bibitem[{{Gammie} and {Popham}(1998)}]{gammie1998}
+{Gammie}, C.~F. and R.~{Popham} (1998).
+\newblock {Advection-dominated Accretion Flows in the Kerr Metric. I. Basic
+  Equations}.
+\newblock \emph{\apj}, \textbf{498}, pp. 313--326.
+\newblock \doi{10.1086/305521}.
+
+\bibitem[{{Genzel} et~al.(2003){Genzel}, {Sch{\"o}del}, {Ott}, {Eckart},
+  {Alexander}, {Lacombe}, {Rouan}, and {Aschenbach}}]{genzel2003}
+{Genzel}, R., R.~{Sch{\"o}del}, T.~{Ott}, A.~{Eckart}, T.~{Alexander},
+  F.~{Lacombe}, D.~{Rouan}, and B.~{Aschenbach} (2003).
+\newblock {Near-infrared flares from accreting gas around the supermassive
+  black hole at the Galactic Centre}.
+\newblock \emph{\nat}, \textbf{425}, pp. 934--937.
+\newblock \doi{10.1038/nature02065}.
+
 \bibitem[{{Giannios}(2008)}]{giannios2008}
 {Giannios}, D. (2008).
 \newblock {Prompt GRB emission from gradual energy dissipation}.
@@ -180,6 +388,51 @@
   envelope}.
 \newblock \emph{\mnras}, \textbf{431}, pp. 355--363.
 \newblock \doi{10.1093/mnras/stt167}.
+
+\bibitem[{Gourdain(2017)}]{gourdain2017}
+Gourdain, P.~A. (2017).
+\newblock The impact of the Hall term on tokamak plasmas.
+
+\bibitem[{{Guo} et~al.(2014{\natexlab{a}}){Guo}, {Li}, {Daughton}, and
+  {Liu}}]{guod_14}
+{Guo}, F., H.~{Li}, W.~{Daughton}, and Y.-H. {Liu} (2014{\natexlab{a}}).
+\newblock {Formation of Hard Power Laws in the Energetic Particle Spectra
+  Resulting from Relativistic Magnetic Reconnection}.
+\newblock \emph{Physical Review Letters}, \textbf{113}(15), 155005.
+\newblock \doi{10.1103/PhysRevLett.113.155005}.
+
+\bibitem[{{Guo} et~al.(2019){Guo}, {Li}, {Daughton}, {Kilian}, {Li}, {Liu},
+  {Yan}, and {Ma}}]{guo2019}
+{Guo}, F., X.~{Li}, W.~{Daughton}, P.~{Kilian}, H.~{Li}, Y.-H. {Liu}, W.~{Yan},
+  and D.~{Ma} (2019).
+\newblock {Determining the Dominant Acceleration Mechanism during Relativistic
+  Magnetic Reconnection in Large-scale Systems}.
+\newblock \emph{\apjl}, \textbf{879}(2), L23.
+\newblock \doi{10.3847/2041-8213/ab2a15}.
+
+\bibitem[{{Guo} et~al.(2016){Guo}, {Li}, {Li}, {Daughton}, {Zhang},
+  {Lloyd-Ronning}, {Liu}, {Zhang}, and {Deng}}]{guo_16}
+{Guo}, F., X.~{Li}, H.~{Li}, W.~{Daughton}, B.~{Zhang}, N.~{Lloyd-Ronning},
+  Y.-H. {Liu}, H.~{Zhang}, and W.~{Deng} (2016).
+\newblock {Efficient Production of High-energy Nonthermal Particles during
+  Magnetic Reconnection in a Magnetically Dominated Ion-Electron Plasma}.
+\newblock \emph{\apjl}, \textbf{818}, L9.
+\newblock \doi{10.3847/2041-8205/818/1/L9}.
+
+\bibitem[{{Guo} et~al.(2015){Guo}, {Liu}, {Daughton}, and {Li}}]{guo2015}
+{Guo}, F., Y.-H. {Liu}, W.~{Daughton}, and H.~{Li} (2015).
+\newblock {Particle Acceleration and Plasma Dynamics during Magnetic
+  Reconnection in the Magnetically Dominated Regime}.
+\newblock \emph{\apj}, \textbf{806}, 167.
+\newblock \doi{10.1088/0004-637X/806/2/167}.
+
+\bibitem[{{Guo} et~al.(2014{\natexlab{b}}){Guo}, {Sironi}, and
+  {Narayan}}]{guo2014}
+{Guo}, X., L.~{Sironi}, and R.~{Narayan} (2014{\natexlab{b}}).
+\newblock {Non-thermal Electron Acceleration in Low Mach Number Collisionless
+  Shocks. I. Particle Energy Spectra and Acceleration Mechanism}.
+\newblock \emph{\apj}, \textbf{794}, 153.
+\newblock \doi{10.1088/0004-637X/794/2/153}.
 
 \bibitem[{{Haggard} et~al.(2019){Haggard}, {Nynka}, {Mon}, {de la Cruz
   Hernandez}, {Nowak}, {Heinke}, {Neilsen}, {Dexter}, {Fragile}, {Baganoff},
@@ -194,11 +447,43 @@
   Flares}.
 \newblock \emph{arXiv e-prints}, arXiv:1908.01781.
 
+\bibitem[{{Haggerty} et~al.(2017){Haggerty}, {Parashar}, {Matthaeus}, {Shay},
+  {Yang}, {Wan}, {Wu}, and {Servidio}}]{haggerty2017}
+{Haggerty}, C.~C., T.~N. {Parashar}, W.~H. {Matthaeus}, M.~A. {Shay},
+  Y.~{Yang}, M.~{Wan}, P.~{Wu}, and S.~{Servidio} (2017).
+\newblock {Exploring the statistics of magnetic reconnection X-points in
+  kinetic particle-in-cell turbulence}.
+\newblock \emph{Physics of Plasmas}, \textbf{24}(10), 102308.
+\newblock \doi{10.1063/1.5001722}.
+
 \bibitem[{{Howes}(2010)}]{howes2010}
 {Howes}, G.~G. (2010).
 \newblock {A prescription for the turbulent heating of astrophysical plasmas}.
 \newblock \emph{\mnras}, \textbf{409}(1), pp. L104--L108.
 \newblock \doi{10.1111/j.1745-3933.2010.00958.x}.
+
+\bibitem[{{Huang} and {Bhattacharjee}(2012)}]{huang2012}
+{Huang}, Y.-M. and A.~{Bhattacharjee} (2012).
+\newblock {Distribution of Plasmoids in High-Lundquist-Number Magnetic
+  Reconnection}.
+\newblock \emph{Physical Review Letters}, \textbf{109}(26), 265002.
+\newblock \doi{10.1103/PhysRevLett.109.265002}.
+
+\bibitem[{{Kagan} et~al.(2013){Kagan}, {Milosavljevi{\'c}}, and
+  {Spitkovsky}}]{kagan2013}
+{Kagan}, D., M.~{Milosavljevi{\'c}}, and A.~{Spitkovsky} (2013).
+\newblock {A Flux Rope Network and Particle Acceleration in Three-dimensional
+  Relativistic Magnetic Reconnection}.
+\newblock \emph{\apj}, \textbf{774}, 41.
+\newblock \doi{10.1088/0004-637X/774/1/41}.
+
+\bibitem[{{Kagan} et~al.(2015){Kagan}, {Sironi}, {Cerutti}, and
+  {Giannios}}]{kagan2015}
+{Kagan}, D., L.~{Sironi}, B.~{Cerutti}, and D.~{Giannios} (2015).
+\newblock {Relativistic Magnetic Reconnection in Pair Plasmas and Its
+  Astrophysical Applications}.
+\newblock \emph{\ssr}, \textbf{191}, pp. 545--573.
+\newblock \doi{10.1007/s11214-014-0132-9}.
 
 \bibitem[{{Kirk} and {Skj{\ae}raasen}(2003)}]{kirk2003}
 {Kirk}, J.~G. and O.~{Skj{\ae}raasen} (2003).
@@ -207,21 +492,66 @@
 \newblock \emph{\apj}, \textbf{591}, pp. 366--379.
 \newblock \doi{10.1086/375215}.
 
-\bibitem[{{Li} et~al.(2017){Li}, {Yuan}, and {Wang}}]{li2017}
-{Li}, Y.-P., F.~{Yuan}, and Q.~D. {Wang} (2017).
+\bibitem[{{Kunz} et~al.(2016){Kunz}, {Stone}, and {Quataert}}]{kunz2016}
+{Kunz}, M.~W., J.~M. {Stone}, and E.~{Quataert} (2016).
+\newblock {Magnetorotational Turbulence and Dynamo in a Collisionless Plasma}.
+\newblock \emph{\prl}, \textbf{117}(23), 235101.
+\newblock \doi{10.1103/PhysRevLett.117.235101}.
+
+\bibitem[{{Lazarian} et~al.(2012){Lazarian}, {Vlahos}, {Kowal}, {Yan},
+  {Beresnyak}, and {de Gouveia Dal Pino}}]{Lazarian2012}
+{Lazarian}, A., L.~{Vlahos}, G.~{Kowal}, H.~{Yan}, A.~{Beresnyak}, and E.~M.
+  {de Gouveia Dal Pino} (2012).
+\newblock {Turbulence, Magnetic Reconnection in Turbulent Fluids and Energetic
+  Particle Acceleration}.
+\newblock \emph{\ssr}, \textbf{173}, pp. 557--622.
+\newblock \doi{10.1007/s11214-012-9936-7}.
+
+\bibitem[{{Li} et~al.(2015{\natexlab{a}}){Li}, {Guo}, {Li}, and
+  {Li}}]{liguo2015}
+{Li}, X., F.~{Guo}, H.~{Li}, and G.~{Li} (2015{\natexlab{a}}).
+\newblock {Nonthermally Dominated Electron Acceleration during Magnetic
+  Reconnection in a Low-{$\beta$} Plasma}.
+\newblock \emph{\apjl}, \textbf{811}, L24.
+\newblock \doi{10.1088/2041-8205/811/2/L24}.
+
+\bibitem[{{Li} et~al.(2017{\natexlab{a}}){Li}, {Guo}, {Li}, and
+  {Li}}]{li_guo_2017}
+{Li}, X., F.~{Guo}, H.~{Li}, and G.~{Li} (2017{\natexlab{a}}).
+\newblock {Particle Acceleration during Magnetic Reconnection in a Low-beta
+  Plasma}.
+\newblock \emph{\apj}, \textbf{843}, 21.
+\newblock \doi{10.3847/1538-4357/aa745e}.
+
+\bibitem[{{Li} et~al.(2017{\natexlab{b}}){Li}, {Yuan}, and {Wang}}]{li2017}
+{Li}, Y.-P., F.~{Yuan}, and Q.~D. {Wang} (2017{\natexlab{b}}).
 \newblock {A magnetohydrodynamic model for multiwavelength flares from
   Sagittarius A$^{*}$ (I): model and the near-infrared and X-ray flares}.
 \newblock \emph{\mnras}, \textbf{468}, pp. 2552--2568.
 \newblock \doi{10.1093/mnras/stx655}.
 
-\bibitem[{{Li} et~al.(2015){Li}, {Yuan}, {Yuan}, {Wang}, {Chen}, {Neilsen},
-  {Fang}, {Zhang}, and {Dexter}}]{li2015}
+\bibitem[{{Li} et~al.(2015{\natexlab{b}}){Li}, {Yuan}, {Yuan}, {Wang}, {Chen},
+  {Neilsen}, {Fang}, {Zhang}, and {Dexter}}]{li2015}
 {Li}, Y.-P., F.~{Yuan}, Q.~{Yuan}, Q.~D. {Wang}, P.~F. {Chen}, J.~{Neilsen},
-  T.~{Fang}, S.~{Zhang}, and J.~{Dexter} (2015).
+  T.~{Fang}, S.~{Zhang}, and J.~{Dexter} (2015{\natexlab{b}}).
 \newblock {Statistics of X-Ray Flares of Sagittarius A*: Evidence for
   Solar-like Self-organized Criticality Phenomena}.
 \newblock \emph{\apj}, \textbf{810}, 19.
 \newblock \doi{10.1088/0004-637X/810/1/19}.
+
+\bibitem[{{Loureiro} et~al.(2007){Loureiro}, {Schekochihin}, and
+  {Cowley}}]{loureiro2007}
+{Loureiro}, N.~F., A.~A. {Schekochihin}, and S.~C. {Cowley} (2007).
+\newblock {Instability of current sheets and formation of plasmoid chains}.
+\newblock \emph{Physics of Plasmas}, \textbf{14}(10), pp. 100703--100703.
+\newblock \doi{10.1063/1.2783986}.
+
+\bibitem[{{Loureiro} and {Uzdensky}(2016)}]{loureiro2016}
+{Loureiro}, N.~F. and D.~A. {Uzdensky} (2016).
+\newblock {Magnetic reconnection: from the Sweet-Parker model to stochastic
+  plasmoid chains}.
+\newblock \emph{Plasma Physics and Controlled Fusion}, \textbf{58}, 014021.
+\newblock \doi{10.1088/0741-3335/58/1/014021}.
 
 \bibitem[{{Lyubarsky} and {Kirk}(2001)}]{lyubarsky2001}
 {Lyubarsky}, Y. and J.~G. {Kirk} (2001).
@@ -241,6 +571,13 @@
 \newblock \emph{\nat}, \textbf{394}, pp. 651--653.
 \newblock \doi{10.1038/29241}.
 
+\bibitem[{{Mao} et~al.(2017){Mao}, {Dexter}, and {Quataert}}]{mao2017}
+{Mao}, S.~A., J.~{Dexter}, and E.~{Quataert} (2017).
+\newblock {The impact of non-thermal electrons on event horizon scale images
+  and spectra of Sgr A*}.
+\newblock \emph{\mnras}, \textbf{466}, pp. 4307--4319.
+\newblock \doi{10.1093/mnras/stw3324}.
+
 \bibitem[{{Marrone} et~al.(2008){Marrone}, {Baganoff}, {Morris}, {Moran},
   {Ghez}, {Hornstein}, {Dowell}, {Mu{\~n}oz}, {Bautz}, {Ricker}, {Brandt},
   {Garmire}, {Lu}, {Matthews}, {Zhao}, {Rao}, and {Bower}}]{marrone2008}
@@ -252,11 +589,64 @@
 \newblock \emph{\apj}, \textbf{682}(1), pp. 373--383.
 \newblock \doi{10.1086/588806}.
 
+\bibitem[{{Melzani} et~al.(2014{\natexlab{a}}){Melzani}, {Walder}, {Folini},
+  {Winisdoerffer}, and {Favre}}]{melzani2014b}
+{Melzani}, M., R.~{Walder}, D.~{Folini}, C.~{Winisdoerffer}, and J.~M. {Favre}
+  (2014{\natexlab{a}}).
+\newblock {The energetics of relativistic magnetic reconnection: ion-electron
+  repartition and particle distribution hardness}.
+\newblock \emph{\aap}, \textbf{570}, A112.
+\newblock \doi{10.1051/0004-6361/201424193}.
+
+\bibitem[{{Melzani} et~al.(2014{\natexlab{b}}){Melzani}, {Walder}, {Folini},
+  {Winisdoerffer}, {Winisdoerffer}, and {Favre}}]{melzani2014}
+{Melzani}, M., R.~{Walder}, D.~{Folini}, C.~{Winisdoerffer},
+  C.~{Winisdoerffer}, and J.~M. {Favre} (2014{\natexlab{b}}).
+\newblock {Relativistic magnetic reconnection in collisionless ion-electron
+  plasmas explored with particle-in-cell simulations}.
+\newblock \emph{\aap}, \textbf{570}, A111.
+\newblock \doi{10.1051/0004-6361/201424083}.
+
+\bibitem[{{Mo{\'s}cibrodzka} et~al.(2014){Mo{\'s}cibrodzka}, {Falcke},
+  {Shiokawa}, and {Gammie}}]{moscibrodzka2014}
+{Mo{\'s}cibrodzka}, M., H.~{Falcke}, H.~{Shiokawa}, and C.~F. {Gammie} (2014).
+\newblock {Observational appearance of inefficient accretion flows and jets in
+  3D GRMHD simulations: Application to Sagittarius A*}.
+\newblock \emph{\aap}, \textbf{570}, A7.
+\newblock \doi{10.1051/0004-6361/201424358}.
+
 \bibitem[{{Nalewajko}(2016)}]{nalewajko2016}
 {Nalewajko}, K. (2016).
 \newblock {Applying Relativistic Reconnection to Blazar Jets}.
 \newblock \emph{Galaxies}, \textbf{4}, p.~28.
 \newblock \doi{10.3390/galaxies4030028}.
+
+\bibitem[{{Nalewajko} et~al.(2015){Nalewajko}, {Uzdensky}, {Cerutti}, {Werner},
+  and {Begelman}}]{nalewajko2015}
+{Nalewajko}, K., D.~A. {Uzdensky}, B.~{Cerutti}, G.~R. {Werner}, and M.~C.
+  {Begelman} (2015).
+\newblock {On the Distribution of Particle Acceleration Sites in
+  Plasmoid-dominated Relativistic Magnetic Reconnection}.
+\newblock \emph{\apj}, \textbf{815}, 101.
+\newblock \doi{10.1088/0004-637X/815/2/101}.
+
+\bibitem[{{Narayan} et~al.(2012){Narayan}, {S{\"A} dowski}, {Penna}, and
+  {Kulkarni}}]{narayan2012}
+{Narayan}, R., A.~{S{\"A} dowski}, R.~F. {Penna}, and A.~K. {Kulkarni} (2012).
+\newblock {GRMHD simulations of magnetized advection-dominated accretion on a
+  non-spinning black hole: role of outflows}.
+\newblock \emph{\mnras}, \textbf{426}, pp. 3241--3259.
+\newblock \doi{10.1111/j.1365-2966.2012.22002.x}.
+
+\bibitem[{{Neilsen} et~al.(2015){Neilsen}, {Markoff}, {Nowak}, {Dexter},
+  {Witzel}, {Barri{\`e}re}, {Li}, {Baganoff}, {Degenaar}, {Fragile}, {Gammie},
+  {Goldwurm}, {Grosso}, and {Haggard}}]{neilsen2015}
+{Neilsen}, J., S.~{Markoff}, M.~A. {Nowak}, J.~{Dexter}, G.~{Witzel},
+  N.~{Barri{\`e}re}, Y.~{Li}, F.~K. {Baganoff}, N.~{Degenaar}, P.~C. {Fragile},
+  C.~{Gammie}, A.~{Goldwurm}, N.~{Grosso}, and D.~{Haggard} (2015).
+\newblock {The X-Ray Flux Distribution of Sagittarius A* as Seen by Chandra}.
+\newblock \emph{\apj}, \textbf{799}, 199.
+\newblock \doi{10.1088/0004-637X/799/2/199}.
 
 \bibitem[{{Neilsen} et~al.(2013){Neilsen}, {Nowak}, {Gammie}, {Dexter},
   {Markoff}, {Haggard}, {Nayakshin}, {Wang}, {Grosso}, {Porquet}, {Tomsick},
@@ -270,6 +660,12 @@
   2012}.
 \newblock \emph{\apj}, \textbf{774}, 42.
 \newblock \doi{10.1088/0004-637X/774/1/42}.
+
+\bibitem[{{Ni} et~al.(2012){Ni}, {Ziegler}, {Huang}, {Lin}, and {Mei}}]{ni2012}
+{Ni}, L., U.~{Ziegler}, Y.-M. {Huang}, J.~{Lin}, and Z.~{Mei} (2012).
+\newblock {Effects of plasma {$\beta$} on the plasmoid instability}.
+\newblock \emph{Physics of Plasmas}, \textbf{19}(7), 072902.
+\newblock \doi{10.1063/1.4736993}.
 
 \bibitem[{{{\"O}zel} et~al.(2000){{\"O}zel}, {Psaltis}, and
   {Narayan}}]{ozel2000}
@@ -316,10 +712,23 @@ Parker, E.~N. (1957).
   T.~{Mu{\~n}oz-Darias}, M.~{Clavel}, D.~{Haggard}, S.~{Zhang}, K.~{Nandra},
   S.~{Gillessen}, K.~{Mori}, J.~{Neilsen}, N.~{Rea}, N.~{Degenaar},
   R.~{Terrier}, and A.~{Goldwurm} (2015).
-\newblock {Fifteen years of XMM-Newton and Chandra monitoring of Sgr A$^{★}$:
+\newblock {Fifteen years of XMM-Newton and Chandra monitoring of Sgr A$^{*}$:
   evidence for a recent increase in the bright flaring rate}.
 \newblock \emph{\mnras}, \textbf{454}, pp. 1525--1544.
 \newblock \doi{10.1093/mnras/stv1537}.
+
+\bibitem[{{Porquet} et~al.(2008){Porquet}, {Grosso}, {Predehl}, {Hasinger},
+  {Yusef-Zadeh}, {Aschenbach}, {Trap}, {Melia}, {Warwick}, {Goldwurm},
+  {B{\'e}langer}, {Tanaka}, {Genzel}, {Dodds-Eden}, {Sakano}, and
+  {Ferrando}}]{porquet2008}
+{Porquet}, D., N.~{Grosso}, P.~{Predehl}, G.~{Hasinger}, F.~{Yusef-Zadeh},
+  B.~{Aschenbach}, G.~{Trap}, F.~{Melia}, R.~S. {Warwick}, A.~{Goldwurm},
+  G.~{B{\'e}langer}, Y.~{Tanaka}, R.~{Genzel}, K.~{Dodds-Eden}, M.~{Sakano},
+  and P.~{Ferrando} (2008).
+\newblock {X-ray hiccups from Sagittarius A* observed by XMM-Newton. The second
+  brightest flare and three moderate flares caught in half a day}.
+\newblock \emph{\aap}, \textbf{488}, pp. 549--557.
+\newblock \doi{10.1051/0004-6361:200809986}.
 
 \bibitem[{{Quataert} et~al.(1999){Quataert}, {Narayan}, and
   {Reid}}]{quataert1999b}
@@ -328,11 +737,55 @@ Parker, E.~N. (1957).
 \newblock \emph{\apjl}, \textbf{517}(2), pp. L101--L104.
 \newblock \doi{10.1086/312035}.
 
+\bibitem[{{Ressler} et~al.(2015){Ressler}, {Tchekhovskoy}, {Quataert},
+  {Chandra}, and {Gammie}}]{ressler2015}
+{Ressler}, S.~M., A.~{Tchekhovskoy}, E.~{Quataert}, M.~{Chandra}, and C.~F.
+  {Gammie} (2015).
+\newblock {Electron thermodynamics in GRMHD simulations of low-luminosity black
+  hole accretion}.
+\newblock \emph{\mnras}, \textbf{454}, pp. 1848--1870.
+\newblock \doi{10.1093/mnras/stv2084}.
+
+\bibitem[{{Ressler} et~al.(2016){Ressler}, {Tchekhovskoy}, {Quataert}, and
+  {Gammie}}]{ressler2016}
+{Ressler}, S.~M., A.~{Tchekhovskoy}, E.~{Quataert}, and C.~F. {Gammie} (2016).
+\newblock {The Disc-Jet Symbiosis Emerges: Modeling the Emission of Sagittarius
+  A* with Electron Thermodynamics}.
+\newblock \emph{ArXiv e-prints}.
+
+\bibitem[{{Riquelme} et~al.(2012){Riquelme}, {Quataert}, {Sharma}, and
+  {Spitkovsky}}]{riquelme2012}
+{Riquelme}, M.~A., E.~{Quataert}, P.~{Sharma}, and A.~{Spitkovsky} (2012).
+\newblock {Local Two-dimensional Particle-in-cell Simulations of the
+  Collisionless Magnetorotational Instability}.
+\newblock \emph{\apj}, \textbf{755}(1), 50.
+\newblock \doi{10.1088/0004-637X/755/1/50}.
+
 \bibitem[{{Rowan} et~al.(2017){Rowan}, {Sironi}, and {Narayan}}]{rowan2017}
 {Rowan}, M.~E., L.~{Sironi}, and R.~{Narayan} (2017).
 \newblock {Electron and proton heating in trans-relativistic magnetic
   reconnection}.
 \newblock \emph{ArXiv e-prints}.
+
+\bibitem[{{Rybicki} and {Lightman}(1979)}]{rybicki1979}
+{Rybicki}, G.~B. and A.~P. {Lightman} (1979).
+\newblock \emph{{Radiative processes in astrophysics}}.
+
+\bibitem[{{Schoeffler} et~al.(2011){Schoeffler}, {Drake}, and
+  {Swisdak}}]{schoeffler2011}
+{Schoeffler}, K.~M., J.~F. {Drake}, and M.~{Swisdak} (2011).
+\newblock {The Effects of Plasma Beta and Anisotropy Instabilities on the
+  Dynamics of Reconnecting Magnetic Fields in the Heliosheath}.
+\newblock \emph{\apj}, \textbf{743}, 70.
+\newblock \doi{10.1088/0004-637X/743/1/70}.
+
+\bibitem[{{Schoeffler} et~al.(2013){Schoeffler}, {Drake}, {Swisdak}, and
+  {Knizhnik}}]{schoeffler2013}
+{Schoeffler}, K.~M., J.~F. {Drake}, M.~{Swisdak}, and K.~{Knizhnik} (2013).
+\newblock {The Role of Pressure Anisotropy on Particle Acceleration during
+  Magnetic Reconnection}.
+\newblock \emph{\apj}, \textbf{764}, 126.
+\newblock \doi{10.1088/0004-637X/764/2/126}.
 
 \bibitem[{{Schwarzschild}(1916)}]{schwarzschild1916}
 {Schwarzschild}, K. (1916).
@@ -348,6 +801,22 @@ Parker, E.~N. (1957).
 \newblock \emph{\apj}, \textbf{699}(1), pp. 453--468.
 \newblock \doi{10.1088/0004-637X/699/1/453}.
 
+\bibitem[{{Sharma} et~al.(2006){Sharma}, {Hammett}, {Quataert}, and
+  {Stone}}]{sharma2006}
+{Sharma}, P., G.~W. {Hammett}, E.~{Quataert}, and J.~M. {Stone} (2006).
+\newblock {Shearing Box Simulations of the MRI in a Collisionless Plasma}.
+\newblock \emph{\apj}, \textbf{637}(2), pp. 952--967.
+\newblock \doi{10.1086/498405}.
+
+\bibitem[{{Shay} et~al.(2014){Shay}, {Haggerty}, {Phan}, {Drake}, {Cassak},
+  {Wu}, {Oieroset}, {Swisdak}, and {Malakit}}]{shay2014}
+{Shay}, M.~A., C.~C. {Haggerty}, T.~D. {Phan}, J.~F. {Drake}, P.~A. {Cassak},
+  P.~{Wu}, M.~{Oieroset}, M.~{Swisdak}, and K.~{Malakit} (2014).
+\newblock {Electron heating during magnetic reconnection: A simulation scaling
+  study}.
+\newblock \emph{Physics of Plasmas}, \textbf{21}(12), 122902.
+\newblock \doi{10.1063/1.4904203}.
+
 \bibitem[{Shibata and Magara(2011)}]{shibata2011}
 Shibata, K. and T.~Magara (2011).
 \newblock Solar Flares: Magnetohydrodynamic Processes.
@@ -360,12 +829,51 @@ Shibata, K. and T.~Magara (2011).
 \newblock {Particle Acceleration in Pulsar Wind Nebulae: PIC modelling}.
 \newblock \emph{ArXiv e-prints}.
 
+\bibitem[{{Sironi} et~al.(2016){Sironi}, {Giannios}, and
+  {Petropoulou}}]{sironi2016}
+{Sironi}, L., D.~{Giannios}, and M.~{Petropoulou} (2016).
+\newblock {Plasmoids in relativistic reconnection, from birth to adulthood:
+  first they grow, then they go}.
+\newblock \emph{\mnras}, \textbf{462}, pp. 48--74.
+\newblock \doi{10.1093/mnras/stw1620}.
+
+\bibitem[{{Sironi} and {Spitkovsky}(2009)}]{sironi2009}
+{Sironi}, L. and A.~{Spitkovsky} (2009).
+\newblock {Particle Acceleration in Relativistic Magnetized Collisionless Pair
+  Shocks: Dependence of Shock Acceleration on Magnetic Obliquity}.
+\newblock \emph{\apj}, \textbf{698}, pp. 1523--1549.
+\newblock \doi{10.1088/0004-637X/698/2/1523}.
+
 \bibitem[{{Sironi} and {Spitkovsky}(2011)}]{sironi2011}
 {Sironi}, L. and A.~{Spitkovsky} (2011).
 \newblock {Particle Acceleration in Relativistic Magnetized Collisionless
   Electron-Ion Shocks}.
 \newblock \emph{\apj}, \textbf{726}, 75.
 \newblock \doi{10.1088/0004-637X/726/2/75}.
+
+\bibitem[{{Sironi} and {Spitkovsky}(2014)}]{sironi2014}
+{Sironi}, L. and A.~{Spitkovsky} (2014).
+\newblock {Relativistic Reconnection: An Efficient Source of Non-thermal
+  Particles}.
+\newblock \emph{\apjl}, \textbf{783}, L21.
+\newblock \doi{10.1088/2041-8205/783/1/L21}.
+
+\bibitem[{{Sparks} et~al.(1996){Sparks}, {Biretta}, and
+  {Macchetto}}]{sparks1996}
+{Sparks}, W.~B., J.~A. {Biretta}, and F.~{Macchetto} (1996).
+\newblock {The Jet of M87 at Tenth-Arcsecond Resolution: Optical, Ultraviolet,
+  and Radio Observations}.
+\newblock \emph{\apj}, \textbf{473}, p. 254.
+\newblock \doi{10.1086/178141}.
+
+\bibitem[{{Spitkovsky}(2005)}]{spitkovsky2005}
+{Spitkovsky}, A. (2005).
+\newblock {Simulations of relativistic collisionless shocks: shock structure
+  and particle acceleration}.
+\newblock In {T.~Bulik, B.~Rudak, \& G.~Madejski} (ed.) \emph{Astrophysical
+  Sources of High Energy Particles and Radiation}, volume 801 of \emph{AIP
+  Conf. Ser.}, p. 345.
+\newblock \doi{10.1063/1.2141897}.
 
 \bibitem[{{Spruit} et~al.(2001){Spruit}, {Daigne}, and
   {Drenkhahn}}]{spruit2001}
@@ -374,11 +882,26 @@ Shibata, K. and T.~Magara (2011).
 \newblock \emph{\aap}, \textbf{369}, pp. 694--705.
 \newblock \doi{10.1051/0004-6361:20010131}.
 
+\bibitem[{{Stanier} et~al.(2016){Stanier}, {Daughton}, {Simakov}, {Chacon},
+  {Le}, {Karimabadi}, {Ng}, and {Bhattacharjee}}]{stanier2016}
+{Stanier}, A., W.~{Daughton}, A.~N. {Simakov}, L.~{Chacon}, A.~{Le},
+  H.~{Karimabadi}, J.~{Ng}, and A.~{Bhattacharjee} (2016).
+\newblock {The role of guide field in magnetic reconnection driven by island
+  coalescence}.
+\newblock \emph{ArXiv e-prints}.
+
 \bibitem[{{Sweet}(1958)}]{sweet1958}
 {Sweet}, P.~A. (1958).
 \newblock {The Neutral Point Theory of Solar Flares}.
 \newblock In {Lehnert}, B. (ed.) \emph{Electromagnetic Phenomena in Cosmical
   Physics}, volume~6 of \emph{IAU Symposium}, p. 123.
+
+\bibitem[{{Takamoto}(2013)}]{takamoto2013}
+{Takamoto}, M. (2013).
+\newblock {Evolution of Relativistic Plasmoid Chains in a Poynting-dominated
+  Plasma}.
+\newblock \emph{\apj}, \textbf{775}, 50.
+\newblock \doi{10.1088/0004-637X/775/1/50}.
 
 \bibitem[{{Thompson}(1994)}]{thompson1994}
 {Thompson}, C. (1994).
@@ -408,11 +931,50 @@ Shibata, K. and T.~Magara (2011).
 \newblock \emph{\apj}, \textbf{682}, 608-629.
 \newblock \doi{10.1086/588812}.
 
+\bibitem[{{Uzdensky} et~al.(2010){Uzdensky}, {Loureiro}, and
+  {Schekochihin}}]{uzdensky2010}
+{Uzdensky}, D.~A., N.~F. {Loureiro}, and A.~A. {Schekochihin} (2010).
+\newblock {Fast Magnetic Reconnection in the Plasmoid-Dominated Regime}.
+\newblock \emph{Physical Review Letters}, \textbf{105}(23), 235002.
+\newblock \doi{10.1103/PhysRevLett.105.235002}.
+
 \bibitem[{{Wang} and {Yuan}(2016)}]{wang2016}
 {Wang}, D. and Q.~{Yuan} (2016).
 \newblock {X-ray flare properties of Sgr A*}.
 \newblock In \emph{AAS/High Energy Astrophysics Division}, volume~15 of
   \emph{AAS/High Energy Astrophysics Division}, p. 109.09.
+
+\bibitem[{{Wang} et~al.(2016){Wang}, {Lu}, {Huang}, and {Wang}}]{wangh2016}
+{Wang}, H., Q.~{Lu}, C.~{Huang}, and S.~{Wang} (2016).
+\newblock {The Mechanisms of Electron Acceleration During Multiple X Line
+  Magnetic Reconnection with a Guide Field}.
+\newblock \emph{\apj}, \textbf{821}, 84.
+\newblock \doi{10.3847/0004-637X/821/2/84}.
+
+\bibitem[{{Werner} and {Uzdensky}(2017)}]{werner2017}
+{Werner}, G.~R. and D.~A. {Uzdensky} (2017).
+\newblock {Nonthermal Particle Acceleration in 3D Relativistic Magnetic
+  Reconnection in Pair Plasma}.
+\newblock \emph{\apj}, \textbf{843}, L27.
+\newblock \doi{10.3847/2041-8213/aa7892}.
+
+\bibitem[{{Werner} et~al.(2018){Werner}, {Uzdensky}, {Begelman}, {Cerutti}, and
+  {Nalewajko}}]{werner2018}
+{Werner}, G.~R., D.~A. {Uzdensky}, M.~C. {Begelman}, B.~{Cerutti}, and
+  K.~{Nalewajko} (2018).
+\newblock {Non-thermal particle acceleration in collisionless relativistic
+  electron-proton reconnection}.
+\newblock \emph{\mnras}, \textbf{473}, pp. 4840--4861.
+\newblock \doi{10.1093/mnras/stx2530}.
+
+\bibitem[{{Werner} et~al.(2016){Werner}, {Uzdensky}, {Cerutti}, {Nalewajko},
+  and {Begelman}}]{werner2016}
+{Werner}, G.~R., D.~A. {Uzdensky}, B.~{Cerutti}, K.~{Nalewajko}, and M.~C.
+  {Begelman} (2016).
+\newblock {The Extent of Power-law Energy Spectra in Collisionless Relativistic
+  Magnetic Reconnection in Pair Plasmas}.
+\newblock \emph{\apjl}, \textbf{816}, L8.
+\newblock \doi{10.3847/2041-8205/816/1/L8}.
 
 \bibitem[{Witzel et~al.(2013)Witzel, Morris, Ghez, Meyer, Becklin, Matthews,
   Lu, Do, and Campbell}]{witzel2013}
@@ -449,5 +1011,20 @@ Yokoyama, T., K.~Akita, T.~Morimoto, K.~Inoue, and J.~Newmark (2001).
   Reconnection of Pair Plasmas}.
 \newblock \emph{\apjl}, \textbf{562}, pp. L63--L66.
 \newblock \doi{10.1086/337972}.
+
+\bibitem[{{Zhdankin} et~al.(2013){Zhdankin}, {Uzdensky}, {Perez}, and
+  {Boldyrev}}]{zhdankin2013}
+{Zhdankin}, V., D.~A. {Uzdensky}, J.~C. {Perez}, and S.~{Boldyrev} (2013).
+\newblock {Statistical Analysis of Current Sheets in Three-dimensional
+  Magnetohydrodynamic Turbulence}.
+\newblock \emph{\apj}, \textbf{771}, 124.
+\newblock \doi{10.1088/0004-637X/771/2/124}.
+
+\bibitem[{{Zhdankin} et~al.(2019){Zhdankin}, {Uzdensky}, {Werner}, and
+  {Begelman}}]{zhdankin2019}
+{Zhdankin}, V., D.~A. {Uzdensky}, G.~R. {Werner}, and M.~C. {Begelman} (2019).
+\newblock {Electron and Ion Energization in Relativistic Plasma Turbulence}.
+\newblock \emph{\prl}, \textbf{122}(5), 055101.
+\newblock \doi{10.1103/PhysRevLett.122.055101}.
 
 \end{thebibliography}

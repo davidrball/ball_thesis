@@ -1,4 +1,4 @@
-\chapter[chapter2]
+\chapter[Nonthermal Electrons in GRMHD: a Phenomenological model of X-ray Flares from Sgr~A*]
 {Nonthermal Electrons in GRMHD: a Phenomenological Model of X-Ray Flares from Sgr~A*}
 
 \section{Background}
@@ -9,7 +9,7 @@ on acceleration and showed that it also produces a nonthermal distribution. Thes
 scales have yielded new insight into the fundamental properties of heating and acceleration mechanisms, but
 their effects have not yet been incorporated, as sub-grid models, into the larger scale general relativistic magnetohydrodynamic (GRMHD) simulations of low-luminosity accretion flows. By coupling the results of the microphysical models to GRMHD simulations, it will become possible to more robustly interpret some observed phenomena that have thus far eluded a physical explanation.
 
-Previous studies (\cietalt{mahadevan1998, ozel2000, yuan2003}) have explored the effect of non-thermal electrons in stationary hydrodynamic models.  Moe recently, \citet{dodds-eden2010} used two-dimensional time-dependent MHD models and injected non-thermal electrons into regions of rapidly changing magnetic fields in an effort to explain the rapid flares seen from Sgr~A*.  These models however, do not account for the three dimensional character of the flow, as well as for general relativistic effects such as strong lensing and Doppler boosting that affect rapid variability.  \citet{chan2015a} showed these effects to be important in understanding the broadband variability of Sgr~A* and especially for accounting for mm and IR flares that originate close to the event horizon.
+Previous studies (\citealt{mahadevan1998, ozel2000, yuan2003}) have explored the effect of non-thermal electrons in stationary hydrodynamic models.  Moe recently, \citet{dodds-eden2010} used two-dimensional time-dependent MHD models and injected non-thermal electrons into regions of rapidly changing magnetic fields in an effort to explain the rapid flares seen from Sgr~A*.  These models however, do not account for the three dimensional character of the flow, as well as for general relativistic effects such as strong lensing and Doppler boosting that affect rapid variability.  \citet{chan2015a} showed these effects to be important in understanding the broadband variability of Sgr~A* and especially for accounting for mm and IR flares that originate close to the event horizon.
 
 In this chapter, we investigate the effect of incorporating the emission from non-thermal electrons in GRMHD
 simulations of Sgr~A*. We consider two injection models
@@ -140,7 +140,7 @@ With this set up, we can calculate the necessary quantities to perform the radia
 \section{Quiescent Constraints}
 
 In \citet{chan2015a}, purely thermal models were fit
-to a number of observed quantities, including to the quiescent X-ray flux at 1018 Hz ($equiv$ 4.1 keV), which originates
+to a number of observed quantities, including to the quiescent X-ray flux at 1018 Hz ($\equiv$ 4.1 keV), which originates
 predominantly from the extended halo of gas emitting via
 Bremsstrahlung. The thermal models were calibrated to
 reproduce the appropriate observed time-averaged X-ray
@@ -250,27 +250,50 @@ between the non-thermal and thermal models is responsible for their different va
 By interpreting observations of Sgr A* in the context of our GRMHD simulations, we begin to place constraints on the population of non-thermal electrons in the radiatively inefficient accretion flow and gain insight into their injection mechanisms. We employed two configurations for non-thermal electron injection, one in which the non-thermal electrons simply track the thermal energy everywhere throughout the flow and another where the non-thermal electrons are injected solely into regions of high magnetization. From the first model we are able to place tight constraints on the fraction of steady-state non-thermal electrons that may exist throughout the flow by comparing the simulations to the observed quiescent X-ray flux. The second model localizes non-thermal electrons to a much smaller region, allowing their local energy density to be much higher than the uniform model (by about 2 orders of magnitude) while still matching the
 observed quiescent X-ray flux.
 
+\begin{figure}
+	\centering
+	\includegraphics[angle=0,width=\columnwidth]{paper1_fig6}
+	\caption{IR and X-ray lightcurves zoomed in on the first 250 timesteps of the simulation.  Each curve is normalized to a fiducial quiescent flux.  Note the strong and rapid variation in the IR flux and moderate variability in the X-ray.  The IR flaring has been described in \citet{chan2015b}.  The includsion of non-thermal electrons in highly magnetized regions has produced significant X-ray variability which was previously unseen.}
+	\label{fig6}
+\end{figure}
+
+\begin{figure}
+	\centering
+	\includegraphics[angle=0,width=\columnwidth]{paper1_fig7}
+	\caption{X-ray flux distribution, accounting for a constant quiescent background.  At high fluxes, the flare distribution resemble a power-law with an index of $\sim 2.3$.  Using the Poisson rate and binning reported in \citet{neilsen2015} for the Chandra observations used in that study, we estimate what would be the upper end of the Poisson-dominated regime, depicted with a vertical dotted line.}
+	\label{fig7}
+\end{figure}
+
+\begin{figure}
+	\centering
+	\includegraphics[angle=0,width=\columnwidth]{paper1_fig8}
+	\caption{IR vs. X-ray flux, accounting for a constant quiescent background of X-ray flux (blue), and purely for the inner accretion flow (green).  The orange line depicts a correlation with a slope of unity.  The addition of the queiscent background decreases the X-ray variability by a factor of $\sim 10$.  We see a general trend of higher IR fluxes being associated with relatively high X-ray fluxes.}
+	\label{fig8}
+\end{figure}
+
+
+
 We find that X-ray variability is a generic result of constraining the non-thermal electrons to highly magnetized regions. This is because the magnetic field is
 dynamic throughout the flow, generating magnetic flux tubes, which are in a constant state of being formed, sheared, becoming buoyant, and leaving the disk. The
 dynamic nature of these flux tubes combined with strong lensing effects from the black hole generate both persistent variability as well as flaring events.
 X-ray flares in our simulations are always coincident with IR flares, but there are numerous IR flares without
-X-ray counterparts, as shown in Figure 8, which qualitatively matches observations. In this figure, we have zoomed in to the first 250 timesteps of the simulation in order to more clearly illustrate the relationship between the IR and X-ray lightcurves. During this time span,
+X-ray counterparts, as shown in Figure \ref{fig6}, which qualitatively matches observations. In this figure, we have zoomed in to the first 250 timesteps of the simulation in order to more clearly illustrate the relationship between the IR and X-ray lightcurves. During this time span,
 we observe about 5 IR flares over the stochastically variable background and one significant X-ray flare. From our simulation we find that there are about 5 IR flares per X-ray flare and a rate of one X-ray flare per 72,000 seconds, over the entire simulation. Over the course of
 3 million seconds of observation with Chandra, 39 Xray flares were observed, corresponding to one flare every $\sim$77,000 seconds. Observations Sgr A* show that,
-for every X-ray flare, there are about 4 NIR flares (e.g., Genzel et al. 2003; Eckart et al. 2006). These numbers
+for every X-ray flare, there are about 4 NIR flares (e.g., \citealt{genzel2003, eckart2006}). These numbers
 are in rough agreement with our results. In order to compare flare statistics from our simulations to observations more directly (e.g., through flux
 distributions reported in Neilsen et al. 2015), we need to account for the fact that only  $\sim 10\%$ of the X-ray
-emission from Sgr A* comes from the inner accretion flow (Neilsen et al. 2013). In Figure 9, after adding a
+emission from Sgr A* comes from the inner accretion flow (Neilsen et al. 2013). In Figure \ref{fig7}, after adding a
 constant background equal to 90\% of the observed quiescent flux to our lightcurve from Figure 2, we plot the
 flux distribution in our simulations. We find that the flare distribution resembles a power-law with an index of
 around 2.3, while the lower-level variability does not have an obvious structure. Neilsen et al. (2015) reports only
 Poisson variability at low fluxes, and power-law behavior at high fluxes, with a power-law index of 1.92. This is
 roughly consistent with our simulated flux distribution. Our simulations, however, do not account for the Poisson photon counting noise, and also do not show as large of a range of variability. The latter is likely due to the
 relatively short duration of our simulation that did not capture many rare, high flux events.
-We estimate the level of the Poisson noise, below which we expect our simulated flux distribution to deviate significantly fom observations. We take the reported photon counting rate ($Q = 5.24$ cts/ks) and binning ($b = 300$ s) from Neilsen et al. (2015) and calculate the typical fractional Poisson error, $\epsilon=1/\sqrt{Qb}=0.79$. Normalizing our lowest level of emission to 1, we see that counting noise
+We estimate the level of the Poisson noise, below which we expect our simulated flux distribution to deviate significantly from observations. We take the reported photon counting rate ($Q = 5.24$ cts/ks) and binning ($b = 300$ s) from Neilsen et al. (2015) and calculate the typical fractional Poisson error, $\epsilon=1/\sqrt{Qb}=0.79$. Normalizing our lowest level of emission to 1, we see that counting noise
 will dominate the observed variability from 1 to $1+\epsilon$,
 setting the lower limit from which we expect our simulations to reproduce the flux distribution.
-We further explore the relationship between IR and Xray fluxes in Figure 10. The largest IR flares correspond
+We further explore the relationship between IR and Xray fluxes in Figure \ref{fig8}. The largest IR flares correspond
 to the largest X-ray flares, but there is much more variability in the IR than the X-rays. In our simulations,
 anytime a flux tube appears and crosses a caustic there
 will be an IR flare due to the synchrotron emission from
@@ -280,7 +303,7 @@ associated with them and will generate an X-ray flare.
 The effect of the $\beta$ threshold is to pick out a subset of all
 the magnetic flux tubes, ones with conditions suitable for
 reconnection to occur. The particular threshold we use is
-motivated by Li et al. (2015a), who showed a non-thermal
+motivated by \citet{liguo2015}, who showed a non-thermal
 component being generated for $\beta < 0.2$. As a result, IR
 variability is much more significant, since there is thermal synchrotron associated with all flux tubes, whereas
 particle acceleration and hence X-ray emission only occurs for a particular subset of the tubes. Additionally,
@@ -292,3 +315,27 @@ highly magnetized flux tubes radiate copiously in the IR
 due to the high magnetic fields, and also act as sites of
 efficient reconnection, generating strong X-ray flares.
 \section{Conclusions}
+In this paper, we explored the effects of incorporating non-thermal electrons into GRMHD simulations of
+radiatively inefficient accretion flows. We found that
+X-ray variability is a generic result of constraining the
+non-thermal electrons to highly magnetized regions and
+that the timescales associated with electron cooling are
+comparable to the observed flare duration. This analysis is model-dependent, since the synchrotron radiation
+from non-thermal electrons depends on the strength and
+topology of the magnetic field, which will impact the constraints we place on the quiescent energy budget of the
+non-thermal electrons. Our analysis of cooling timescales
+are also likely to differ across models. For model B with
+only inflowing velocities within 10 gravitational radii, we
+found that flares are unlikely to originate from the funnel since the inward radial velocities were too large to
+explain the X-ray flares lasting many thousands of seconds. We will explore the role of non-thermal electrons
+in producing the variability for different magnetic field
+configurations and black hole spins in a future study.
+In the context of model B, which has matched many
+observational constraints, from the quiescent broadband
+spectrum to the variability properties, we find that Xray flares likely originate from magnetic flux tubes in the
+disk, where centrifugal support allows the non-thermal
+electrons to remain in the flow for many thousands of seconds while radiating away their energy via synchrotron
+emission. The flare lengths are hence set by the synchrotron cooling timescales. The properties of the Xray variability from this model are consistent with observations: X-ray flares are always coincident with IR
+flares, there are many more IR flares without associated
+X-ray counterparts, and the timescales associated with
+the flares are comparable to the observed flare duration.

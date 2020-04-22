@@ -3,23 +3,67 @@
 \BOOKMARK [1][-]{section.1.1}{Black Holes and Accretion}{chapter.1}% 3
 \BOOKMARK [1][-]{section.1.2}{Low-Luminosity Accretion Flows}{chapter.1}% 4
 \BOOKMARK [1][-]{section.1.3}{Magnetohydrodynamics}{chapter.1}% 5
-\BOOKMARK [2][-]{subsection.1.3.1}{Shortcomings of the MHD approximations}{section.1.3}% 6
-\BOOKMARK [1][-]{section.1.4}{Magnetic Reconnection}{chapter.1}% 7
-\BOOKMARK [1][-]{section.1.5}{Particle-in-Cell Simulations}{chapter.1}% 8
-\BOOKMARK [2][-]{subsection.1.5.1}{Particle Pushing}{section.1.5}% 9
-\BOOKMARK [2][-]{subsection.1.5.2}{Field Solving}{section.1.5}% 10
-\BOOKMARK [2][-]{subsection.1.5.3}{Interpolation and Particle Shape}{section.1.5}% 11
-\BOOKMARK [0][-]{chapter.2}{CHAPTER chapter2}{}% 12
-\BOOKMARK [1][-]{section.2.1}{Background}{chapter.2}% 13
-\BOOKMARK [1][-]{section.2.2}{GRMHD models}{chapter.2}% 14
-\BOOKMARK [1][-]{section.2.3}{Incorporating Non-Thermal Electrons}{chapter.2}% 15
-\BOOKMARK [2][-]{subsection.2.3.1}{Injection of Non-Thermal Electrons}{section.2.3}% 16
-\BOOKMARK [2][-]{subsection.2.3.2}{Radiative Cooling of Power-Law Electrons}{section.2.3}% 17
-\BOOKMARK [1][-]{section.2.4}{Quiescent Constraints}{chapter.2}% 18
-\BOOKMARK [1][-]{section.2.5}{X-Ray Variability: Stochastic Injection}{chapter.2}% 19
-\BOOKMARK [1][-]{section.2.6}{Comparison to Observations}{chapter.2}% 20
-\BOOKMARK [1][-]{section.2.7}{Conclusions}{chapter.2}% 21
-\BOOKMARK [0][-]{chapter.3}{CHAPTER Quantifying Reconnection Current Sheets in GRMHD Simulations of Sgr A*}{}% 22
-\BOOKMARK [0][-]{chapter.4}{CHAPTER Electron and Proton Acceleration in Trans-relativistic Magnetic Reconnection: Dependence on Plasma Beta and Magnetization}{}% 23
-\BOOKMARK [0][-]{chapter.5}{CHAPTER The Mechanism of Electron Injection and Acceleration in Trans-relativistic Reconnection}{}% 24
-\BOOKMARK [0][-]{appendix.A}{APPENDIX Extra Stuff}{}% 25
+\BOOKMARK [2][-]{subsection.1.3.1}{Calculating Observables from GRMHD}{section.1.3}% 6
+\BOOKMARK [2][-]{subsection.1.3.2}{Limitations of the MHD approximations}{section.1.3}% 7
+\BOOKMARK [1][-]{section.1.4}{Magnetic Reconnection}{chapter.1}% 8
+\BOOKMARK [1][-]{section.1.5}{Particle-in-Cell Simulations}{chapter.1}% 9
+\BOOKMARK [0][-]{chapter.2}{CHAPTER Nonthermal Electrons in GRMHD: a Phenomenological model of X-ray Flares from Sgr A*}{}% 10
+\BOOKMARK [1][-]{section.2.1}{Background}{chapter.2}% 11
+\BOOKMARK [1][-]{section.2.2}{GRMHD models}{chapter.2}% 12
+\BOOKMARK [1][-]{section.2.3}{Incorporating Non-Thermal Electrons}{chapter.2}% 13
+\BOOKMARK [2][-]{subsection.2.3.1}{Injection of Non-Thermal Electrons}{section.2.3}% 14
+\BOOKMARK [2][-]{subsection.2.3.2}{Radiative Cooling of Power-Law Electrons}{section.2.3}% 15
+\BOOKMARK [1][-]{section.2.4}{Quiescent Constraints}{chapter.2}% 16
+\BOOKMARK [1][-]{section.2.5}{X-Ray Variability: Stochastic Injection}{chapter.2}% 17
+\BOOKMARK [1][-]{section.2.6}{Comparison to Observations}{chapter.2}% 18
+\BOOKMARK [1][-]{section.2.7}{Conclusions}{chapter.2}% 19
+\BOOKMARK [0][-]{chapter.3}{CHAPTER The Properties of Reconnection Current Sheets in GRMHD Simulations of Radiatively Inefficient Accretion Flows}{}% 20
+\BOOKMARK [1][-]{section.3.1}{Introduction}{chapter.3}% 21
+\BOOKMARK [1][-]{section.3.2}{Characterizing Potential Reconnection Regions in MHD Simulations}{chapter.3}% 22
+\BOOKMARK [1][-]{section.3.3}{Finding and characterizing current sheets}{chapter.3}% 23
+\BOOKMARK [2][-]{subsection.3.3.1}{Sampling Plasma Properties Associated with Current Sheets}{section.3.3}% 24
+\BOOKMARK [1][-]{section.3.4}{Plasma Properties of Current Sheets}{chapter.3}% 25
+\BOOKMARK [2][-]{subsection.3.4.1}{Properties of SANE Current Sheets}{section.3.4}% 26
+\BOOKMARK [2][-]{subsection.3.4.2}{Properties of MAD Current Sheets}{section.3.4}% 27
+\BOOKMARK [1][-]{section.3.5}{Variability of Magnetic Energy available for Reconnection}{chapter.3}% 28
+\BOOKMARK [1][-]{section.3.6}{Conclusion}{chapter.3}% 29
+\BOOKMARK [0][-]{chapter.4}{CHAPTER Electron and Proton Acceleration in Transrelativistic Magnetic Reconnection: Dependence on \040and }{}% 30
+\BOOKMARK [1][-]{section.4.1}{Introduction}{chapter.4}% 31
+\BOOKMARK [1][-]{section.4.2}{Simulation Setup}{chapter.4}% 32
+\BOOKMARK [1][-]{section.4.3}{Time Evolution of the reconnection layer}{chapter.4}% 33
+\BOOKMARK [2][-]{subsection.4.3.1}{Defining the Reconnection Region}{section.4.3}% 34
+\BOOKMARK [2][-]{subsection.4.3.2}{Time Evolution of the Energy Spectra}{section.4.3}% 35
+\BOOKMARK [1][-]{section.4.4}{The Role of \040in the Dynamics of the Reconnection Layer}{chapter.4}% 36
+\BOOKMARK [2][-]{subsection.4.4.1}{Reconnection Rate}{section.4.4}% 37
+\BOOKMARK [1][-]{section.4.5}{Dependence on \040and \040of the Electron Energy Spectra}{chapter.4}% 38
+\BOOKMARK [2][-]{subsection.4.5.1}{Characterizing the Electron Energy Spectra}{section.4.5}% 39
+\BOOKMARK [2][-]{subsection.4.5.2}{Dependence on \040and \040of Electron Energy Spectra}{section.4.5}% 40
+\BOOKMARK [2][-]{subsection.4.5.3}{The Additional High-Energy Component at max}{section.4.5}% 41
+\BOOKMARK [2][-]{subsection.4.5.4}{Dependence on \040and \040of the Power-Law Slope and Acceleration Efficiency}{section.4.5}% 42
+\BOOKMARK [1][-]{section.4.6}{Electron Acceleration Mechanisms}{chapter.4}% 43
+\BOOKMARK [2][-]{subsection.4.6.1}{Electron Acceleration at Low }{section.4.6}% 44
+\BOOKMARK [2][-]{subsection.4.6.2}{Electron Acceleration at max}{section.4.6}% 45
+\BOOKMARK [2][-]{subsection.4.6.3}{Comparing the Acceleration Mechanisms}{section.4.6}% 46
+\BOOKMARK [1][-]{section.4.7}{Conclusions}{chapter.4}% 47
+\BOOKMARK [1][-]{section.4.8}{Appendix A: Dependence on Box Size}{chapter.4}% 48
+\BOOKMARK [1][-]{section.4.9}{Appendix B: Boundary Conditions and Triggering Mechanisms}{chapter.4}% 49
+\BOOKMARK [1][-]{section.4.10}{Appendix C: Convergence tests}{chapter.4}% 50
+\BOOKMARK [1][-]{section.4.11}{Appendix D: Decomposing the Particle Spectra}{chapter.4}% 51
+\BOOKMARK [0][-]{chapter.5}{CHAPTER The mechanism of Electron Injection and Acceleration in Transrelativistic Reconnection}{}% 52
+\BOOKMARK [1][-]{section.5.1}{Introduction}{chapter.5}% 53
+\BOOKMARK [1][-]{section.5.2}{Methods}{chapter.5}% 54
+\BOOKMARK [2][-]{subsection.5.2.1}{Simulation Setup}{section.5.2}% 55
+\BOOKMARK [2][-]{subsection.5.2.2}{Fiducial Simulations}{section.5.2}% 56
+\BOOKMARK [1][-]{section.5.3}{Diagnostics of Electron Acceleration}{chapter.5}% 57
+\BOOKMARK [2][-]{subsection.5.3.1}{Tracking Particle Properties on the Fly}{section.5.3}% 58
+\BOOKMARK [2][-]{subsection.5.3.2}{X-point Identification}{section.5.3}% 59
+\BOOKMARK [2][-]{subsection.5.3.3}{Spatial Locations of Electron Injection}{section.5.3}% 60
+\BOOKMARK [1][-]{section.5.4}{The Roles of X-points in Electron Injection}{chapter.5}% 61
+\BOOKMARK [1][-]{section.5.5}{Investigating the Role of non-ideal Electric Fields}{chapter.5}% 62
+\BOOKMARK [1][-]{section.5.6}{Test Particles and The effect of parallel electric fields}{chapter.5}% 63
+\BOOKMARK [1][-]{section.5.7}{conclusions}{chapter.5}% 64
+\BOOKMARK [1][-]{section.5.8}{Appendix A: Dependence on Box Size}{chapter.5}% 65
+\BOOKMARK [1][-]{section.5.9}{Appendix B: Effects of Initial Sheet Thickness}{chapter.5}% 66
+\BOOKMARK [1][-]{section.5.10}{Appendix C: Anti-parallel and Low Guide Field Comparison}{chapter.5}% 67
+\BOOKMARK [0][-]{appendix.A}{APPENDIX Extra Stuff}{}% 68
+\BOOKMARK [0][-]{appendix*.71}{REFERENCES}{}% 69

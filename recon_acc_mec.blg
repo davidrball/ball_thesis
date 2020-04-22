@@ -1,0 +1,48 @@
+This is BibTeX, Version 0.99d (TeX Live 2016)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: recon_acc_mec.aux
+The style file: apj.bst
+Database file #1: recon_acc_mecNotes.bib
+Database file #2: david_bib.bib
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+You've used 57 entries,
+            3085 wiz_defined-function locations,
+            1041 strings with 14913 characters,
+and the built_in function-call counts, 25719 in all, are:
+= -- 2280
+> -- 1538
+< -- 33
++ -- 517
+- -- 545
+* -- 2036
+:= -- 4733
+add.period$ -- 57
+call.type$ -- 57
+change.case$ -- 379
+chr.to.int$ -- 55
+cite$ -- 57
+duplicate$ -- 1077
+empty$ -- 1661
+format.name$ -- 637
+if$ -- 5210
+int.to.chr$ -- 3
+int.to.str$ -- 0
+missing$ -- 54
+newline$ -- 175
+num.names$ -- 230
+pop$ -- 398
+preamble$ -- 1
+purify$ -- 379
+quote$ -- 0
+skip$ -- 958
+stack$ -- 0
+substring$ -- 1316
+swap$ -- 22
+text.length$ -- 2
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 513
+warning$ -- 0
+while$ -- 227
+width$ -- 0
+write$ -- 569

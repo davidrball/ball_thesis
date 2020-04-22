@@ -1,18 +1,15 @@
 This is BibTeX, Version 0.99dThe top-level auxiliary file: dissertation.aux
 A level-1 auxiliary file: introduction.aux
 A level-1 auxiliary file: chapter2.aux
-A level-1 auxiliary file: chapter3.aux
-A level-1 auxiliary file: chapter4.aux
-A level-1 auxiliary file: chapter5.aux
+A level-1 auxiliary file: cs_paper.aux
+A level-1 auxiliary file: recon_paper5.aux
+A level-1 auxiliary file: recon_acc_mec.aux
 A level-1 auxiliary file: appendix.aux
 The style file: uabibnat.bst
 Database file #1: bibliography.bib
-Repeated entry---line 476 of file bibliography.bib
- : @article{yuan2014
- :                  ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 3104 of file bibliography.bib
- : @article{rowan2017
- :                   ,
-I'm skipping whatever remains of this entry
-(There were 2 error messages)
+Warning--I didn't find a database entry for "ponti17"
+Warning--I didn't find a database entry for "buneman93"
+Warning--I didn't find a database entry for "spitkovsky05"
+Warning--missing publisher in chandrasekhar1939
+Warning--missing publisher in rybicki1979
+(There were 5 warnings)

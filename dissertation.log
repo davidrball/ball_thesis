@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6930 64-bit) (preloaded format=pdflatex 2019.1.8)  13 APR 2020 14:29
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6930 64-bit) (preloaded format=pdflatex 2019.1.8)  21 APR 2020 14:21
 entering extended mode
 **./dissertation.tex
 (dissertation.tex
@@ -91,10 +91,17 @@ Package: deluxetable
 \pt@page=\count97
 \pt@tmpcapwidth=\dimen109
 ) (aastex_hack.sty)
+("C:\Users\David\AppData\Local\Programs\MiKTeX 2.9\tex/latex/units\nicefrac.sty
+"
+Package: nicefrac 1998/08/04 v0.9b Nice fractions
+\L@UnitsRaiseDisplaystyle=\skip47
+\L@UnitsRaiseTextstyle=\skip48
+\L@UnitsRaiseScriptstyle=\skip49
+)
 ("C:\Users\David\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsmath.st
 y"
 Package: amsmath 2018/12/01 v2.17b AMS math features
-\@mathmargin=\skip47
+\@mathmargin=\skip50
 
 For additional information on amsmath, use the `?' option.
 
@@ -149,8 +156,8 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 730.
 \totwidth@=\dimen117
 \lineht@=\dimen118
 \@envbody=\toks19
-\multlinegap=\skip48
-\multlinetaggap=\skip49
+\multlinegap=\skip51
+\multlinetaggap=\skip52
 \mathdisplay@stack=\toks20
 LaTeX Info: Redefining \[ on input line 2844.
 LaTeX Info: Redefining \] on input line 2845.
@@ -210,12 +217,12 @@ Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
 \calc@Bcount=\count113
 \calc@Adimen=\dimen126
 \calc@Bdimen=\dimen127
-\calc@Askip=\skip50
-\calc@Bskip=\skip51
+\calc@Askip=\skip53
+\calc@Bskip=\skip54
 LaTeX Info: Redefining \setlength on input line 80.
 LaTeX Info: Redefining \addtolength on input line 81.
 \calc@Ccount=\count114
-\calc@Cskip=\skip52
+\calc@Cskip=\skip55
 )
 ("C:\Users\David\AppData\Local\Programs\MiKTeX 2.9\tex/latex/mathtools\mhsetup.
 sty"
@@ -227,7 +234,7 @@ LaTeX Info: Thecontrolsequence`\['isalreadyrobust on input line 130.
 LaTeX Info: Thecontrolsequence`\]'isalreadyrobust on input line 130.
 \g_MT_multlinerow_int=\count115
 \l_MT_multwidth_dim=\dimen128
-\origjot=\skip53
+\origjot=\skip56
 \l_MT_shortvdotswithinadjustabove_dim=\dimen129
 \l_MT_shortvdotswithinadjustbelow_dim=\dimen130
 \l_MT_above_intertext_sep=\dimen131
@@ -247,7 +254,7 @@ LaTeX Info: Redefining \bm on input line 207.
 ("C:\Users\David\AppData\Local\Programs\MiKTeX 2.9\tex/latex/enumitem\enumitem.
 sty"
 Package: enumitem 2019/06/20 v3.9 Customized lists
-\labelindent=\skip54
+\labelindent=\skip57
 \enit@outerparindent=\dimen136
 \enit@toks=\toks21
 \enit@inbox=\box32
@@ -256,14 +263,7 @@ Package: enumitem 2019/06/20 v3.9 Customized lists
 )
 ("C:\Users\David\AppData\Local\Programs\MiKTeX 2.9\tex/latex/units\units.sty"
 Package: units 1998/08/04 v0.9b Typesetting units
-
-("C:\Users\David\AppData\Local\Programs\MiKTeX 2.9\tex/latex/units\nicefrac.sty
-"
-Package: nicefrac 1998/08/04 v0.9b Nice fractions
-\L@UnitsRaiseDisplaystyle=\skip55
-\L@UnitsRaiseTextstyle=\skip56
-\L@UnitsRaiseScriptstyle=\skip57
-))
+)
 \c@daggerfootnote=\count118
 
 ("C:\Users\David\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\hyperref.
@@ -385,24 +385,32 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 82.
 )
 \Hy@SectionHShift=\skip58
-) (dissertation.aux (introduction.aux) (chapter2.aux) (chapter3.aux) (chapter4.
-aux) (chapter5.aux) (appendix.aux))
+) (dissertation.aux (introduction.aux) (chapter2.aux) (cs_paper.aux) (recon_pap
+er5.aux
+
+LaTeX Warning: Label `fermi' multiply defined.
+
+) (recon_acc_mec.aux
+
+LaTeX Warning: Label `tab:fit' multiply defined.
+
+) (appendix.aux))
 \openout1 = `dissertation.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 90.
-LaTeX Font Info:    ... okay on input line 90.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 90.
-LaTeX Font Info:    ... okay on input line 90.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 90.
-LaTeX Font Info:    ... okay on input line 90.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 90.
-LaTeX Font Info:    ... okay on input line 90.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 90.
-LaTeX Font Info:    ... okay on input line 90.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 90.
-LaTeX Font Info:    ... okay on input line 90.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 90.
-LaTeX Font Info:    ... okay on input line 90.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 89.
+LaTeX Font Info:    ... okay on input line 89.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 89.
+LaTeX Font Info:    ... okay on input line 89.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 89.
+LaTeX Font Info:    ... okay on input line 89.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 89.
+LaTeX Font Info:    ... okay on input line 89.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 89.
+LaTeX Font Info:    ... okay on input line 89.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 89.
+LaTeX Font Info:    ... okay on input line 89.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 89.
+LaTeX Font Info:    ... okay on input line 89.
 
 ("C:\Users\David\AppData\Local\Programs\MiKTeX 2.9\tex/context/base\supp-pdf.mk
 ii"
@@ -438,7 +446,7 @@ Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: hyperref package is loaded.
 Package caption Info: End \AtBeginDocument code.
 \AtBeginShipoutBox=\box34
-Package hyperref Info: Link coloring OFF on input line 90.
+Package hyperref Info: Link coloring OFF on input line 89.
 
 ("C:\Users\David\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\nameref.s
 ty"
@@ -450,41 +458,41 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
 \c@section@level=\count135
 )
-LaTeX Info: Redefining \ref on input line 90.
-LaTeX Info: Redefining \pageref on input line 90.
-LaTeX Info: Redefining \nameref on input line 90.
+LaTeX Info: Redefining \ref on input line 89.
+LaTeX Info: Redefining \pageref on input line 89.
+LaTeX Info: Redefining \nameref on input line 89.
  (dissertation.out) (dissertation.out)
 \@outlinefile=\write3
 \openout3 = `dissertation.out'.
 
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 96.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 95.
 
 ("C:\Users\David\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\omscmr.fd"
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 96.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 95.
 
 [1
 
 {C:/Users/David/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
-LaTeX Font Info:    Try loading font information for U+msa on input line 113.
+LaTeX Font Info:    Try loading font information for U+msa on input line 112.
 
 ("C:\Users\David\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\umsa.fd"
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 113.
+LaTeX Font Info:    Try loading font information for U+msb on input line 112.
 ("C:\Users\David\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\umsb.fd"
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-Underfull \hbox (badness 10000) in paragraph at lines 113--113
+Underfull \hbox (badness 10000) in paragraph at lines 112--112
 
  []
 
 [2
 
 ]
-Overfull \hbox (7.98335pt too wide) in alignment at lines 121--121
+Overfull \hbox (7.98335pt too wide) in alignment at lines 120--120
 [] [] []
  []
 
@@ -498,491 +506,919 @@ Including your file acknowledgements.tex as the acknowledgements.
 Including your file dedication.tex as the dedication.
 (dedication.tex) [5
 
-] (dissertation.toc)
+] (dissertation.toc [6
+
+] [7])
 \tf@toc=\write4
 \openout4 = `dissertation.toc'.
 
- [6
-
-]
+ [8]
 Including your file abstract.tex as the abstract.
-(abstract.tex) [7
+(abstract.tex) [9
 
 ]
 \openout2 = `introduction.aux'.
 
  (introduction.tex
 CHAPTER 1.
-
-Package natbib Warning: Citation `schwarzschild1916' on page 8 undefined on inp
-ut line 11.
+[10
 
 
-Package natbib Warning: Citation `smallbh' on page 8 undefined on input line 13
-.
-
-
-Package natbib Warning: Citation `eht6' on page 8 undefined on input line 13.
-
-
-Package natbib Warning: Citation `quataert1999b' on page 8 undefined on input l
-ine 15.
-
-[8
-
-
-]
-
-Package natbib Warning: Citation `eckart2004' on page 9 undefined on input line
- 17.
-
-
-Package natbib Warning: Citation `marrone2008' on page 9 undefined on input lin
-e 17.
-
-
-Package natbib Warning: Citation `neilsen2013' on page 9 undefined on input lin
-e 17.
-
-
-Package natbib Warning: Citation `witzel2013' on page 9 undefined on input line
- 17.
-
-
-Package natbib Warning: Citation `ponti2015' on page 9 undefined on input line 
-17.
-
-
-Package natbib Warning: Citation `li2015' on page 9 undefined on input line 17.
-
-
-
-Package natbib Warning: Citation `wang2016' on page 9 undefined on input line 1
-7.
-
-
-Package natbib Warning: Citation `neilsen2013' on page 9 undefined on input lin
-e 17.
-
-
-Package natbib Warning: Citation `haggard2019' on page 9 undefined on input lin
-e 17.
-
-
-Package natbib Warning: Citation `eckart2004' on page 9 undefined on input line
- 17.
-
-[9]
-
-Package natbib Warning: Citation `howes2010' on page 10 undefined on input line
- 22.
-
-
-Package natbib Warning: Citation `rowan2017' on page 10 undefined on input line
- 22.
-
-
-Package natbib Warning: Citation `mahadevan1998' on page 10 undefined on input 
-line 24.
-
-
-Package natbib Warning: Citation `ozel2000' on page 10 undefined on input line 
-24.
-
-
-Package natbib Warning: Citation `yuan2003' on page 10 undefined on input line 
-24.
-
-
-LaTeX Warning: Reference `phenom_model' on page 10 undefined on input line 24.
-
-[10]
-
-Package natbib Warning: Citation `yuan2014' on page 11 undefined on input line 
-28.
-
-[11]
+] [11] [12] [13]
 
 Package amsfonts Warning: Obsolete command \bold; \mathbf should be used instea
-d on input line 35.
+d on input line 38.
 
-[12] [13]
-
-Package natbib Warning: Citation `parker1957' on page 14 undefined on input lin
-e 92.
-
-
-Package natbib Warning: Citation `sweet1958' on page 14 undefined on input line
- 92.
-
-[14] [15]
-
-Package natbib Warning: Citation `loureiro2016' on page 16 undefined on input l
-ine 126.
-
-[16]
-
-Package natbib Warning: Citation `giannios2013' on page 17 undefined on input l
-ine 129.
-
-
-Package natbib Warning: Citation `petropoulou2016' on page 17 undefined on inpu
-t line 129.
-
-
-Package natbib Warning: Citation `nalewajko2016' on page 17 undefined on input 
-line 129.
-
-
-Package natbib Warning: Citation `coroniti1990' on page 17 undefined on input l
-ine 129.
-
-
-Package natbib Warning: Citation `lyubarsky2001' on page 17 undefined on input 
-line 129.
-
-
-Package natbib Warning: Citation `zenitani2001' on page 17 undefined on input l
-ine 129.
-
-
-Package natbib Warning: Citation `kirk2003' on page 17 undefined on input line 
-129.
-
-
-Package natbib Warning: Citation `contopoulos2007' on page 17 undefined on inpu
-t line 129.
-
-
-Package natbib Warning: Citation `petri2008' on page 17 undefined on input line
- 129.
-
-
-Package natbib Warning: Citation `sironi2011' on page 17 undefined on input lin
-e 129.
-
-
-Package natbib Warning: Citation `cerutti2012' on page 17 undefined on input li
-ne 129.
-
-
-Package natbib Warning: Citation `cerutti2014' on page 17 undefined on input li
-ne 129.
-
-
-Package natbib Warning: Citation `cerutti2017' on page 17 undefined on input li
-ne 129.
-
-
-Package natbib Warning: Citation `philippov2014' on page 17 undefined on input 
-line 129.
-
-
-Package natbib Warning: Citation `sironi2017' on page 17 undefined on input lin
-e 129.
-
-
-Package natbib Warning: Citation `thompson1994' on page 17 undefined on input l
-ine 129.
-
-
-Package natbib Warning: Citation `thompson2006' on page 17 undefined on input l
-ine 129.
-
-
-Package natbib Warning: Citation `usov1994' on page 17 undefined on input line 
-129.
-
-
-Package natbib Warning: Citation `spruit2001' on page 17 undefined on input lin
-e 129.
-
-
-Package natbib Warning: Citation `drenkhahn2002' on page 17 undefined on input 
-line 129.
-
-
-Package natbib Warning: Citation `lyutikov2003' on page 17 undefined on input l
-ine 129.
-
-
-Package natbib Warning: Citation `giannios2008' on page 17 undefined on input l
-ine 129.
-
-
-Package natbib Warning: Citation `forbes1996' on page 17 undefined on input lin
-e 129.
-
-
-Package natbib Warning: Citation `yokoyama2001' on page 17 undefined on input l
-ine 129.
-
-
-Package natbib Warning: Citation `shibata2011' on page 17 undefined on input li
-ne 129.
-
-
-Package natbib Warning: Citation `galeev1979' on page 17 undefined on input lin
-e 129.
-
-
-Package natbib Warning: Citation `dimatteo1998' on page 17 undefined on input l
-ine 129.
-
-
-Package natbib Warning: Citation `uzdensky2008' on page 17 undefined on input l
-ine 129.
-
-
-Package natbib Warning: Citation `li2015' on page 17 undefined on input line 12
-9.
-
-
-Package natbib Warning: Citation `ball2016' on page 17 undefined on input line 
-129.
-
-
-Package natbib Warning: Citation `li2017' on page 17 undefined on input line 12
-9.
-
-[17] [18]) [19]
+[14] [15] [16] [17] [18] [19] [20] [21] [22] [23]) [24]
 \openout2 = `chapter2.aux'.
 
  (chapter2.tex
 CHAPTER 2.
-
-Package natbib Warning: Citation `dexter2012' on page 20 undefined on input lin
-e 5.
-
-
-Package natbib Warning: Citation `drappeau2013' on page 20 undefined on input l
-ine 5.
-
-
-Package natbib Warning: Citation `moscibrodzka2014' on page 20 undefined on inp
-ut line 5.
-
-
-Package natbib Warning: Citation `chan2015b' on page 20 undefined on input line
- 5.
-
-
-Package natbib Warning: Citation `ressler2015' on page 20 undefined on input li
-ne 5.
-
-
-Package natbib Warning: Citation `Lazarian2012' on page 20 undefined on input l
-ine 7.
-
-
-Package natbib Warning: Citation `sironi2014' on page 20 undefined on input lin
-e 7.
-
-
-Package natbib Warning: Citation `guo2014' on page 20 undefined on input line 7
-.
-
-[20
+[25
 
 
 
-]
-! Undefined control sequence.
-l.12 Previous studies (\cietalt
-                               {mahadevan1998, ozel2000, yuan2003}) have exp...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-
-Package natbib Warning: Citation `dodds-eden2010' on page 21 undefined on input
- line 12.
-
-
-Package natbib Warning: Citation `chan2015a' on page 21 undefined on input line
- 12.
-
-
-Package natbib Warning: Citation `chan2015b' on page 21 undefined on input line
- 27.
-
-
-Package natbib Warning: Citation `gammie2003' on page 21 undefined on input lin
-e 30.
-
-
-Package natbib Warning: Citation `narayan2012' on page 21 undefined on input li
-ne 30.
-
-
-Package natbib Warning: Citation `chan2013' on page 21 undefined on input line 
-31.
-
-
-Package natbib Warning: Citation `chan2015b' on page 21 undefined on input line
- 36.
-
-
-Package natbib Warning: Citation `chan2015b' on page 21 undefined on input line
- 41.
-
-
-Package natbib Warning: Citation `chan2015a' on page 21 undefined on input line
- 51.
-
-[21] [22]
-
-Package natbib Warning: Citation `sironi2014' on page 23 undefined on input lin
-e 77.
-
-[23]
-
-Package natbib Warning: Citation `rybicki1979' on page 24 undefined on input li
-ne 97.
-
-
+] [26] [27] [28]
 Overfull \hbox (21.42165pt too wide) detected at line 107
 [][]\OML/cmm/m/it/12 [] \OT1/cmr/m/n/12 = [] [][] \OML/cmm/m/it/12 C\OT1/cmr/m
 /n/12 (\OML/cmm/m/it/12 B [] \OT1/cmr/m/n/12 )[](\OML/cmm/m/it/12 m[]c[]\OT1/c
 mr/m/n/12 )[]  []   [] \OML/cmm/m/it/12 []:
  []
 
-[24]
-
-Package natbib Warning: Citation `chandrasekhar1939' on page 25 undefined on in
-put line 111.
-
-
-Package natbib Warning: Citation `gammie1998' on page 25 undefined on input lin
-e 122.
-
-[25]
-
-Package natbib Warning: Citation `chan2015a' on page 26 undefined on input line
- 143.
-
-
-Package natbib Warning: Citation `barriere2014' on page 26 undefined on input l
-ine 155.
-
-
-Package natbib Warning: Citation `porquet2008' on page 26 undefined on input li
-ne 155.
-
-
-Package natbib Warning: Citation `sironi2014' on page 26 undefined on input lin
-e 157.
-
-<paper1_fig1.jpg, id=286, 497.4585pt x 178.266pt>
+[29] [30]
+<paper1_fig1.jpg, id=825, 497.4585pt x 178.266pt>
 File: paper1_fig1.jpg Graphic file (type jpg)
 <use paper1_fig1.jpg>
 Package pdftex.def Info: paper1_fig1.jpg  used on input line 166.
 (pdftex.def)             Requested size: 497.45728pt x 178.26555pt.
-[26] [27 <./paper1_fig1.jpg>]
-<paper1_fig2.jpg, id=296, 240.9pt x 199.4652pt>
+ [31] [32 <./paper1_fig1.jpg>]
+<paper1_fig2.jpg, id=839, 240.9pt x 199.4652pt>
 File: paper1_fig2.jpg Graphic file (type jpg)
 <use paper1_fig2.jpg>
 Package pdftex.def Info: paper1_fig2.jpg  used on input line 181.
 (pdftex.def)             Requested size: 240.8994pt x 199.4647pt.
-<paper1_fig4.jpg, id=297, 496.254pt x 197.0562pt>
+<paper1_fig4.jpg, id=840, 496.254pt x 197.0562pt>
 File: paper1_fig4.jpg Graphic file (type jpg)
 <use paper1_fig4.jpg>
 Package pdftex.def Info: paper1_fig4.jpg  used on input line 189.
 (pdftex.def)             Requested size: 496.25278pt x 197.05571pt.
-<paper1_fig3.jpg, id=298, 240.9pt x 178.0251pt>
+<paper1_fig3.jpg, id=841, 240.9pt x 178.0251pt>
 File: paper1_fig3.jpg Graphic file (type jpg)
 <use paper1_fig3.jpg>
 Package pdftex.def Info: paper1_fig3.jpg  used on input line 196.
 (pdftex.def)             Requested size: 240.8994pt x 178.02464pt.
-<paper1_fig5.jpg, id=299, 496.7358pt x 188.1429pt>
+<paper1_fig5.jpg, id=842, 496.7358pt x 188.1429pt>
 File: paper1_fig5.jpg Graphic file (type jpg)
 <use paper1_fig5.jpg>
 Package pdftex.def Info: paper1_fig5.jpg  used on input line 203.
 (pdftex.def)             Requested size: 496.73457pt x 188.14243pt.
- [28] [29 <./paper1_fig2.jpg>] [30 <./paper1_fig4.jpg>] [31 <./paper1_fig3.jpg>
-] [32 <./paper1_fig5.jpg>] [33] [34]) [35]
-\openout2 = `chapter3.aux'.
+ [33] [34 <./paper1_fig2.jpg>] [35 <./paper1_fig4.jpg>] [36 <./paper1_fig3.jpg>
+] [37 <./paper1_fig5.jpg>]
+<paper1_fig6.jpg, id=871, 240.9pt x 195.8517pt>
+File: paper1_fig6.jpg Graphic file (type jpg)
+<use paper1_fig6.jpg>
+Package pdftex.def Info: paper1_fig6.jpg  used on input line 259.
+(pdftex.def)             Requested size: 240.8994pt x 195.85121pt.
+<paper1_fig7.jpg, id=876, 240.9pt x 181.8795pt>
+File: paper1_fig7.jpg Graphic file (type jpg)
+<use paper1_fig7.jpg>
+Package pdftex.def Info: paper1_fig7.jpg  used on input line 266.
+(pdftex.def)             Requested size: 240.8994pt x 181.87904pt.
+<paper1_fig8.jpg, id=881, 240.9pt x 194.1654pt>
+File: paper1_fig8.jpg Graphic file (type jpg)
+<use paper1_fig8.jpg>
+Package pdftex.def Info: paper1_fig8.jpg  used on input line 273.
+(pdftex.def)             Requested size: 240.8994pt x 194.16492pt.
+ [38] [39 <./paper1_fig6.jpg>] [40 <./paper1_fig7.jpg>] [41 <./paper1_fig8.jpg>
+] [42])
+[43] [44]
+\openout2 = `cs_paper.aux'.
 
-
-(chapter3.tex
+ (cs_paper.tex
 CHAPTER 3.
-) [36
+[45
 
 
 
-]
-\openout2 = `chapter4.aux'.
+] [46]
 
- (chapter4.tex
+LaTeX Warning: Reference `bphi_sheet_example' on page 47 undefined on input lin
+e 110.
+
+[47]
+<paper2_fig1.jpg, id=969, 240.9pt x 421.575pt>
+File: paper2_fig1.jpg Graphic file (type jpg)
+<use paper2_fig1.jpg>
+Package pdftex.def Info: paper2_fig1.jpg  used on input line 129.
+(pdftex.def)             Requested size: 255.83812pt x 447.72934pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<paper2_fig2.jpg, id=970, 238.2501pt x 402.5439pt>
+File: paper2_fig2.jpg Graphic file (type jpg)
+<use paper2_fig2.jpg>
+Package pdftex.def Info: paper2_fig2.jpg  used on input line 137.
+(pdftex.def)             Requested size: 255.83812pt x 432.284pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[48]
+
+LaTeX Warning: Text page 49 contains only floats.
+
+
+Overfull \vbox (1.79677pt too high) has occurred while \output is active []
+
+
+[49 <./paper2_fig1.jpg>]
+
+LaTeX Warning: Text page 50 contains only floats.
+
+[50 <./paper2_fig2.jpg>] [51]
+<paper2_fig3.jpg, id=999, 240.9pt x 174.6525pt>
+File: paper2_fig3.jpg Graphic file (type jpg)
+<use paper2_fig3.jpg>
+Package pdftex.def Info: paper2_fig3.jpg  used on input line 222.
+(pdftex.def)             Requested size: 426.39255pt x 309.16422pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<paper2_fig4.jpg, id=1000, 240.9pt x 169.5936pt>
+File: paper2_fig4.jpg Graphic file (type jpg)
+<use paper2_fig4.jpg>
+Package pdftex.def Info: paper2_fig4.jpg  used on input line 234.
+(pdftex.def)             Requested size: 426.39255pt x 300.20909pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[52] [53 <./paper2_fig3.jpg>]
+<paper2_fig5.jpg, id=1017, 240.9pt x 189.8292pt>
+File: paper2_fig5.jpg Graphic file (type jpg)
+<use paper2_fig5.jpg>
+Package pdftex.def Info: paper2_fig5.jpg  used on input line 263.
+(pdftex.def)             Requested size: 426.39255pt x 336.0295pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<paper2_fig6.jpg, id=1018, 240.9pt x 172.4844pt>
+File: paper2_fig6.jpg Graphic file (type jpg)
+<use paper2_fig6.jpg>
+Package pdftex.def Info: paper2_fig6.jpg  used on input line 270.
+(pdftex.def)             Requested size: 426.39255pt x 305.32632pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[54 <./paper2_fig4.jpg>] [55 <./paper2_fig5.jpg>] [56 <./paper2_fig6.jpg>]
+<paper2_fig7.jpg, id=1042, 240.9pt x 191.9973pt>
+File: paper2_fig7.jpg Graphic file (type jpg)
+<use paper2_fig7.jpg>
+Package pdftex.def Info: paper2_fig7.jpg  used on input line 303.
+(pdftex.def)             Requested size: 426.39255pt x 339.8674pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<paper2_fig8.jpg, id=1043, 240.9pt x 171.039pt>
+File: paper2_fig8.jpg Graphic file (type jpg)
+<use paper2_fig8.jpg>
+Package pdftex.def Info: paper2_fig8.jpg  used on input line 310.
+(pdftex.def)             Requested size: 426.39255pt x 302.7677pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<paper2_fig11.jpg, id=1044, 493.845pt x 186.4566pt>
+File: paper2_fig11.jpg Graphic file (type jpg)
+<use paper2_fig11.jpg>
+Package pdftex.def Info: paper2_fig11.jpg  used on input line 329.
+(pdftex.def)             Requested size: 426.39255pt x 160.98685pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[57]
+<paper2_fig10.jpg, id=1051, 493.845pt x 163.812pt>
+File: paper2_fig10.jpg Graphic file (type jpg)
+<use paper2_fig10.jpg>
+Package pdftex.def Info: paper2_fig10.jpg  used on input line 351.
+(pdftex.def)             Requested size: 426.39255pt x 141.43546pt.
+ [58 <./paper2_fig7.jpg>]
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[59 <./paper2_fig8.jpg>] [60 <./paper2_fig11.jpg> <./paper2_fig10.jpg>]
+
+LaTeX Warning: Reference `label' on page 61 undefined on input line 409.
+
+[61]) [62] [63]
+\openout2 = `recon_paper5.aux'.
+
+ (recon_paper5.tex
 CHAPTER 4.
-) [37
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 2.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\sigma' on input line 2.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 2.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 2.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\beta' on input line 2.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 2.
+
+[64
 
 
 
-]
-\openout2 = `chapter5.aux'.
+] [65]
 
- (chapter5.tex
+Package natbib Warning: Citation `ponti17' on page 66 undefined on input line 2
+8.
+
+[66]
+
+Package natbib Warning: Citation `buneman93' on page 67 undefined on input line
+ 33.
+
+
+Package natbib Warning: Citation `spitkovsky05' on page 67 undefined on input l
+ine 33.
+
+[67] [68]
+Underfull \hbox (badness 10000) in alignment at lines 58--102
+[][][][][][][]
+ []
+
+Page 1 of table 4.1 has been set to width 426.39255pt with 25 lines per page 
+[69] [70]
+Underfull \hbox (badness 10000) in alignment at lines 102--125
+[][][][][][][]
+ []
+
+Table 4.1 has been set to width 426.39255pt
+<testing_threeplot.pdf, id=1222, 428.71541pt x 365.75218pt>
+File: testing_threeplot.pdf Graphic file (type pdf)
+<use testing_threeplot.pdf>
+Package pdftex.def Info: testing_threeplot.pdf  used on input line 142.
+(pdftex.def)             Requested size: 426.39255pt x 363.79237pt.
+[71
+
+] [72] [73 <./testing_threeplot.pdf>] [74] [75]
+<regions_test.pdf, id=1331, 422.56744pt x 208.95883pt>
+File: regions_test.pdf Graphic file (type pdf)
+<use regions_test.pdf>
+Package pdftex.def Info: regions_test.pdf  used on input line 164.
+(pdftex.def)             Requested size: 426.39255pt x 210.85225pt.
+<sig_3_delgam00005_timespec.pdf, id=1338, 435.64757pt x 330.5124pt>
+File: sig_3_delgam00005_timespec.pdf Graphic file (type pdf)
+<use sig_3_delgam00005_timespec.pdf>
+Package pdftex.def Info: sig_3_delgam00005_timespec.pdf  used on input line 174
+.
+(pdftex.def)             Requested size: 213.19627pt x 161.74571pt.
+<sig_3_delgam00005_timespec_ions.pdf, id=1339, 433.64006pt x 328.50491pt>
+File: sig_3_delgam00005_timespec_ions.pdf Graphic file (type pdf)
+<use sig_3_delgam00005_timespec_ions.pdf>
+Package pdftex.def Info: sig_3_delgam00005_timespec_ions.pdf  used on input lin
+e 179.
+(pdftex.def)             Requested size: 213.19627pt x 161.51016pt.
+ [76 <./regions_test.pdf>]
+[77 <./sig_3_delgam00005_timespec.pdf> <./sig_3_delgam00005_timespec_ions.pdf
+
+pdfTeX warning: pdflatex.exe (file ./sig_3_delgam00005_timespec_ions.pdf): PDF 
+inclusion: multiple pdfs with page group included in a single page
+>] [78] [79]
+<sig_3_threeplot.pdf, id=1497, 272.40105pt x 364.61017pt>
+File: sig_3_threeplot.pdf Graphic file (type pdf)
+<use sig_3_threeplot.pdf>
+Package pdftex.def Info: sig_3_threeplot.pdf  used on input line 199.
+(pdftex.def)             Requested size: 213.19627pt x 285.37395pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<sig3_threeplot.pdf, id=1498, 272.40105pt x 364.61017pt>
+File: sig3_threeplot.pdf Graphic file (type pdf)
+<use sig3_threeplot.pdf>
+Package pdftex.def Info: sig3_threeplot.pdf  used on input line 206.
+(pdftex.def)             Requested size: 213.19627pt x 285.37395pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 213.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\beta' on input line 213.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 213.
+
+[80] [81 <./sig_3_threeplot.pdf>] [82 <./sig3_threeplot.pdf>] [83]
+<sigpoint3_inflow_rates.pdf, id=1637, 426.50403pt x 329.83801pt>
+File: sigpoint3_inflow_rates.pdf Graphic file (type pdf)
+<use sigpoint3_inflow_rates.pdf>
+Package pdftex.def Info: sigpoint3_inflow_rates.pdf  used on input line 237.
+(pdftex.def)             Requested size: 426.39255pt x 329.75162pt.
+ [84 <./sigpoint3_inflow_rates.pdf>]
+<inflow_rates_over_va.pdf, id=1694, 418.26263pt x 290.88205pt>
+File: inflow_rates_over_va.pdf Graphic file (type pdf)
+<use inflow_rates_over_va.pdf>
+Package pdftex.def Info: inflow_rates_over_va.pdf  used on input line 258.
+(pdftex.def)             Requested size: 426.39255pt x 296.54039pt.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 264.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\beta' on input line 264.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 264.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 264.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\sigma' on input line 264.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 264.
+
+[85] [86 <./inflow_rates_over_va.pdf>] [87]
+<single_powerlaw_fit.pdf, id=1774, 413.24388pt x 289.18037pt>
+File: single_powerlaw_fit.pdf Graphic file (type pdf)
+<use single_powerlaw_fit.pdf>
+Package pdftex.def Info: single_powerlaw_fit.pdf  used on input line 290.
+(pdftex.def)             Requested size: 426.39255pt x 298.39743pt.
+<sig_3_betas_withcold.pdf, id=1779, 433.64006pt x 328.50491pt>
+File: sig_3_betas_withcold.pdf Graphic file (type pdf)
+<use sig_3_betas_withcold.pdf>
+Package pdftex.def Info: sig_3_betas_withcold.pdf  used on input line 298.
+(pdftex.def)             Requested size: 426.39255pt x 323.02034pt.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 303.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\beta' on input line 303.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 303.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 303.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\sigma' on input line 303.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 303.
+
+[88] [89 <./single_powerlaw_fit.pdf>] [90 <./sig_3_betas_withcold.pdf>]
+[91]
+<beta_0003_sigmas_withcold.pdf, id=1907, 433.64006pt x 328.50491pt>
+File: beta_0003_sigmas_withcold.pdf Graphic file (type pdf)
+<use beta_0003_sigmas_withcold.pdf>
+Package pdftex.def Info: beta_0003_sigmas_withcold.pdf  used on input line 321.
+
+(pdftex.def)             Requested size: 426.39255pt x 323.02034pt.
+<beta_01_sigmas_withcold.pdf, id=1908, 433.64006pt x 328.50491pt>
+File: beta_01_sigmas_withcold.pdf Graphic file (type pdf)
+<use beta_01_sigmas_withcold.pdf>
+Package pdftex.def Info: beta_01_sigmas_withcold.pdf  used on input line 328.
+(pdftex.def)             Requested size: 426.39255pt x 323.02034pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 333.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\beta' on input line 333.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\sim' on input line 333.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\beta' on input line 333.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `subscript' on input line 333.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 333.
+
+[92 <./beta_0003_sigmas_withcold.pdf>] [93 <./beta_01_sigmas_withcold.pdf>]
+<sig1_delgam_2_timespec.pdf, id=1988, 427.61757pt x 330.5124pt>
+File: sig1_delgam_2_timespec.pdf Graphic file (type pdf)
+<use sig1_delgam_2_timespec.pdf>
+Package pdftex.def Info: sig1_delgam_2_timespec.pdf  used on input line 345.
+(pdftex.def)             Requested size: 426.39255pt x 329.5786pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 376.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\beta' on input line 376.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 376.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 376.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\sigma' on input line 376.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 376.
+
+[94]
+<powerlaw_fit.pdf, id=2001, 400.28925pt x 277.63725pt>
+File: powerlaw_fit.pdf Graphic file (type pdf)
+<use powerlaw_fit.pdf>
+Package pdftex.def Info: powerlaw_fit.pdf  used on input line 383.
+(pdftex.def)             Requested size: 426.39255pt x 295.74716pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[95 <./sig1_delgam_2_timespec.pdf>] [96 <./powerlaw_fit.pdf>] [97]
+<efficiency_fit.pdf, id=2105, 403.81805pt x 283.95775pt>
+File: efficiency_fit.pdf Graphic file (type pdf)
+<use efficiency_fit.pdf>
+Package pdftex.def Info: efficiency_fit.pdf  used on input line 424.
+(pdftex.def)             Requested size: 426.39255pt x 299.83257pt.
+ [98 <./efficiency_fit.pdf>] [99]
+<lowbeta_lec.pdf, id=2157, 509.59445pt x 442.42538pt>
+File: lowbeta_lec.pdf Graphic file (type pdf)
+<use lowbeta_lec.pdf>
+Package pdftex.def Info: lowbeta_lec.pdf  used on input line 443.
+(pdftex.def)             Requested size: 426.39255pt x 370.21034pt.
+
+
+LaTeX Warning: Float too large for page by 41.27777pt on input line 447.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 450.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\beta' on input line 450.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 450.
+
+[100]
+<highbeta_lec.pdf, id=2171, 509.59445pt x 442.42538pt>
+File: highbeta_lec.pdf Graphic file (type pdf)
+<use highbeta_lec.pdf>
+Package pdftex.def Info: highbeta_lec.pdf  used on input line 465.
+(pdftex.def)             Requested size: 426.39255pt x 370.21034pt.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 471.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\beta' on input line 471.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\approx' on input line 471.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\beta' on input line 471.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `subscript' on input line 471.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 471.
+
+[101] [102] [103] [104]
+
+Package natbib Warning: Citation `ponti17' on page 105 undefined on input line 
+571.
+
+[105] [106]
+<sig_3_delgam001_boxsize.pdf, id=2236, 420.59131pt x 323.70573pt>
+File: sig_3_delgam001_boxsize.pdf Graphic file (type pdf)
+<use sig_3_delgam001_boxsize.pdf>
+Package pdftex.def Info: sig_3_delgam001_boxsize.pdf  used on input line 590.
+(pdftex.def)             Requested size: 319.7944pt x 246.1424pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<sig1_delgam_2_boxsize.pdf, id=2238, 425.61006pt x 322.21579pt>
+File: sig1_delgam_2_boxsize.pdf Graphic file (type pdf)
+<use sig1_delgam_2_boxsize.pdf>
+Package pdftex.def Info: sig1_delgam_2_boxsize.pdf  used on input line 603.
+(pdftex.def)             Requested size: 319.7944pt x 242.11357pt.
+[107] [108]
+<sig_3_delgam001_outflow_untriggered_earlytime.pdf, id=2253, 427.11569pt x 323.
+70573pt>
+File: sig_3_delgam001_outflow_untriggered_earlytime.pdf Graphic file (type pdf)
+
+<use sig_3_delgam001_outflow_untriggered_earlytime.pdf>
+Package pdftex.def Info: sig_3_delgam001_outflow_untriggered_earlytime.pdf  use
+d on input line 615.
+(pdftex.def)             Requested size: 319.7944pt x 242.37862pt.
+<sig_3_delgam001_outflow_untriggered_latetime.pdf, id=2254, 427.11569pt x 323.7
+0573pt>
+File: sig_3_delgam001_outflow_untriggered_latetime.pdf Graphic file (type pdf)
+<use sig_3_delgam001_outflow_untriggered_latetime.pdf>
+Package pdftex.def Info: sig_3_delgam001_outflow_untriggered_latetime.pdf  used
+ on input line 616.
+(pdftex.def)             Requested size: 319.7944pt x 242.37862pt.
+
+
+LaTeX Warning: Float too large for page by 55.32466pt on input line 619.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<sig1_delgam_2_outflow_untriggered_earlytime.pdf, id=2257, 420.59131pt x 323.70
+573pt>
+File: sig1_delgam_2_outflow_untriggered_earlytime.pdf Graphic file (type pdf)
+<use sig1_delgam_2_outflow_untriggered_earlytime.pdf>
+Package pdftex.def Info: sig1_delgam_2_outflow_untriggered_earlytime.pdf  used 
+on input line 635.
+(pdftex.def)             Requested size: 319.7944pt x 246.1424pt.
+<sig1_delgam_2_outflow_untriggered_latetime.pdf, id=2258, 420.59131pt x 323.705
+73pt>
+File: sig1_delgam_2_outflow_untriggered_latetime.pdf Graphic file (type pdf)
+<use sig1_delgam_2_outflow_untriggered_latetime.pdf>
+Package pdftex.def Info: sig1_delgam_2_outflow_untriggered_latetime.pdf  used o
+n input line 636.
+(pdftex.def)             Requested size: 319.7944pt x 246.1424pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<ppc_final.pdf, id=2260, 525.26236pt x 412.03937pt>
+File: ppc_final.pdf Graphic file (type pdf)
+<use ppc_final.pdf>
+Package pdftex.def Info: ppc_final.pdf  used on input line 655.
+(pdftex.def)             Requested size: 319.7944pt x 250.86581pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[109]
+<comp_final.pdf, id=2268, 525.26236pt x 412.03937pt>
+File: comp_final.pdf Graphic file (type pdf)
+<use comp_final.pdf>
+Package pdftex.def Info: comp_final.pdf  used on input line 664.
+(pdftex.def)             Requested size: 319.7944pt x 250.86581pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<shellvec_flds.pdf, id=2274, 428.71541pt x 364.55962pt>
+File: shellvec_flds.pdf Graphic file (type pdf)
+<use shellvec_flds.pdf>
+Package pdftex.def Info: shellvec_flds.pdf  used on input line 683.
+(pdftex.def)             Requested size: 319.7944pt x 271.95047pt.
+<shellvec_spect.pdf, id=2275, 431.13069pt x 327.72073pt>
+File: shellvec_spect.pdf Graphic file (type pdf)
+<use shellvec_spect.pdf>
+Package pdftex.def Info: shellvec_spect.pdf  used on input line 684.
+(pdftex.def)             Requested size: 319.7944pt x 243.0896pt.
+
+LaTeX Warning: Float too large for page by 42.1075pt on input line 687.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+) [110] [111 <./lowbeta_lec.pdf>] [112 <./highbeta_lec.pdf>] [113 <./sig_3_delg
+am001_boxsize.pdf>] [114 <./sig1_delgam_2_boxsize.pdf>] [115 <./sig_3_delgam001
+_outflow_untriggered_earlytime.pdf> <./sig_3_delgam001_outflow_untriggered_late
+time.pdf
+
+pdfTeX warning: pdflatex.exe (file ./sig_3_delgam001_outflow_untriggered_lateti
+me.pdf): PDF inclusion: multiple pdfs with page group included in a single page
+
+>] [116 <./sig1_delgam_2_outflow_untriggered_earlytime.pdf> <./sig1_delgam_2_ou
+tflow_untriggered_latetime.pdf
+
+pdfTeX warning: pdflatex.exe (file ./sig1_delgam_2_outflow_untriggered_latetime
+.pdf): PDF inclusion: multiple pdfs with page group included in a single page
+>] [117 <./ppc_final.pdf>] [118 <./comp_final.pdf>] [119 <./shellvec_flds.pdf> 
+<./shellvec_spect.pdf
+
+pdfTeX warning: pdflatex.exe (file ./shellvec_spect.pdf): PDF inclusion: multip
+le pdfs with page group included in a single page
+>]
+\openout2 = `recon_acc_mec.aux'.
+
+ (recon_acc_mec.tex
 CHAPTER 5.
-) [38
+[120
 
 
 
-]
+] [121] [122]
+
+Package natbib Warning: Citation `buneman93' on page 123 undefined on input lin
+e 25.
+
+
+Package natbib Warning: Citation `spitkovsky05' on page 123 undefined on input 
+line 25.
+
+[123]
+<2x2_flds_reord.pdf, id=2944, 854.3857pt x 365.76039pt>
+File: 2x2_flds_reord.pdf Graphic file (type pdf)
+<use 2x2_flds_reord.pdf>
+Package pdftex.def Info: 2x2_flds_reord.pdf  used on input line 29.
+(pdftex.def)             Requested size: 426.39255pt x 182.53929pt.
+
+Underfull \hbox (badness 10000) in alignment at lines 41--74
+[][][][][]
+ []
+
+Table 5.1 has been set to width 426.39255pt
+
+LaTeX Warning: Float too large for page by 8.01491pt on input line 77.
+
+[124 <./2x2_flds_reord.pdf>] [125]
+<blines_withx.pdf, id=3008, 429.84464pt x 211.05394pt>
+File: blines_withx.pdf Graphic file (type pdf)
+<use blines_withx.pdf>
+Package pdftex.def Info: blines_withx.pdf  used on input line 84.
+(pdftex.def)             Requested size: 426.39255pt x 209.37234pt.
+ [126] [127 <./blines_withx.pdf>] [128]
+<bguide3_accmec_singleplot.pdf, id=3049, 630.34875pt x 278.29346pt>
+File: bguide3_accmec_singleplot.pdf Graphic file (type pdf)
+<use bguide3_accmec_singleplot.pdf>
+Package pdftex.def Info: bguide3_accmec_singleplot.pdf  used on input line 108.
+
+(pdftex.def)             Requested size: 426.39255pt x 188.24762pt.
+
+[129 <./bguide3_accmec_singleplot.pdf>] [130]
+<spectra_fourplot.pdf, id=3124, 421.59506pt x 319.90247pt>
+File: spectra_fourplot.pdf Graphic file (type pdf)
+<use spectra_fourplot.pdf>
+Package pdftex.def Info: spectra_fourplot.pdf  used on input line 135.
+(pdftex.def)             Requested size: 426.39255pt x 323.53824pt.
+ [131] [132 <./spectra_fourplot.pdf>] [133]
+<bguide1_accmec_singleplot.pdf, id=3205, 630.34875pt x 278.29346pt>
+File: bguide1_accmec_singleplot.pdf Graphic file (type pdf)
+<use bguide1_accmec_singleplot.pdf>
+Package pdftex.def Info: bguide1_accmec_singleplot.pdf  used on input line 172.
+
+(pdftex.def)             Requested size: 426.39255pt x 188.24762pt.
+ [134] [135 <./bguide1_accmec_singleplot.pdf>] [136] [137]
+<2x2_timespec_2comp_reord.pdf, id=3300, 421.59506pt x 319.20454pt>
+File: 2x2_timespec_2comp_reord.pdf Graphic file (type pdf)
+<use 2x2_timespec_2comp_reord.pdf>
+Package pdftex.def Info: 2x2_timespec_2comp_reord.pdf  used on input line 208.
+(pdftex.def)             Requested size: 426.39255pt x 322.83238pt.
+ [138]
+[139] [140]
+<bg3_singleplot_flds.pdf, id=3331, 422.19104pt x 339.47227pt>
+File: bg3_singleplot_flds.pdf Graphic file (type pdf)
+<use bg3_singleplot_flds.pdf>
+Package pdftex.def Info: bg3_singleplot_flds.pdf  used on input line 238.
+(pdftex.def)             Requested size: 426.39255pt x 342.84874pt.
+ [141]
+<bguide3_triggered_final2dhist_withmean15.pdf, id=3344, 458.19058pt x 324.30171
+pt>
+File: bguide3_triggered_final2dhist_withmean15.pdf Graphic file (type pdf)
+<use bguide3_triggered_final2dhist_withmean15.pdf>
+Package pdftex.def Info: bguide3_triggered_final2dhist_withmean15.pdf  used on 
+input line 250.
+(pdftex.def)             Requested size: 255.83812pt x 181.07823pt.
+<bguide3_triggered_final2dhist_withmean65.pdf, id=3345, 458.19058pt x 324.30171
+pt>
+File: bguide3_triggered_final2dhist_withmean65.pdf Graphic file (type pdf)
+<use bguide3_triggered_final2dhist_withmean65.pdf>
+Package pdftex.def Info: bguide3_triggered_final2dhist_withmean65.pdf  used on 
+input line 251.
+(pdftex.def)             Requested size: 255.83812pt x 181.07823pt.
+ [142] [143]
+<manypart_wparz_deltagamma_log.pdf, id=3365, 427.61757pt x 328.31671pt>
+File: manypart_wparz_deltagamma_log.pdf Graphic file (type pdf)
+<use manypart_wparz_deltagamma_log.pdf>
+Package pdftex.def Info: manypart_wparz_deltagamma_log.pdf  used on input line 
+265.
+(pdftex.def)             Requested size: 426.39255pt x 327.3891pt.
+ [144]
+<bguide1_triggered_final2dhist_withmean15.pdf, id=3376, 458.19058pt x 324.30171
+pt>
+File: bguide1_triggered_final2dhist_withmean15.pdf Graphic file (type pdf)
+<use bguide1_triggered_final2dhist_withmean15.pdf>
+Package pdftex.def Info: bguide1_triggered_final2dhist_withmean15.pdf  used on 
+input line 273.
+(pdftex.def)             Requested size: 426.39255pt x 301.79541pt.
+<bguide1_triggered_final2dhist_withmean65.pdf, id=3377, 458.19058pt x 324.30171
+pt>
+File: bguide1_triggered_final2dhist_withmean65.pdf Graphic file (type pdf)
+<use bguide1_triggered_final2dhist_withmean65.pdf>
+Package pdftex.def Info: bguide1_triggered_final2dhist_withmean65.pdf  used on 
+input line 275.
+(pdftex.def)             Requested size: 426.39255pt x 301.79541pt.
+
+
+LaTeX Warning: Float too large for page by 87.15825pt on input line 279.
+
+[145]
+<final_testprtl_bguide3_triggered065.pdf, id=3386, 440.16444pt x 329.44592pt>
+File: final_testprtl_bguide3_triggered065.pdf Graphic file (type pdf)
+<use final_testprtl_bguide3_triggered065.pdf>
+Package pdftex.def Info: final_testprtl_bguide3_triggered065.pdf  used on input
+ line 295.
+(pdftex.def)             Requested size: 426.39255pt x 319.13988pt.
+<final_testprtl_bguide1_triggered065.pdf, id=3387, 440.16444pt x 329.44592pt>
+File: final_testprtl_bguide1_triggered065.pdf Graphic file (type pdf)
+<use final_testprtl_bguide1_triggered065.pdf>
+Package pdftex.def Info: final_testprtl_bguide1_triggered065.pdf  used on input
+ line 301.
+(pdftex.def)             Requested size: 426.39255pt x 319.13988pt.
+ [146] [147] [148]
+<triggered_bguide_3_boxsize.pdf, id=3402, 440.16444pt x 332.1043pt>
+File: triggered_bguide_3_boxsize.pdf Graphic file (type pdf)
+<use triggered_bguide_3_boxsize.pdf>
+Package pdftex.def Info: triggered_bguide_3_boxsize.pdf  used on input line 331
+.
+(pdftex.def)             Requested size: 426.39255pt x 321.71509pt.
+<untriggered_bguide_3_boxsize.pdf, id=3404, 440.16444pt x 332.1043pt>
+File: untriggered_bguide_3_boxsize.pdf Graphic file (type pdf)
+<use untriggered_bguide_3_boxsize.pdf>
+Package pdftex.def Info: untriggered_bguide_3_boxsize.pdf  used on input line 3
+40.
+(pdftex.def)             Requested size: 426.39255pt x 321.71509pt.
+<triggered_bguide_1_boxsize.pdf, id=3407, 440.16444pt x 332.1043pt>
+File: triggered_bguide_1_boxsize.pdf Graphic file (type pdf)
+<use triggered_bguide_1_boxsize.pdf>
+Package pdftex.def Info: triggered_bguide_1_boxsize.pdf  used on input line 349
+.
+(pdftex.def)             Requested size: 426.39255pt x 321.71509pt.
+<untriggered_bguide_1_boxsize.pdf, id=3408, 440.16444pt x 332.1043pt>
+File: untriggered_bguide_1_boxsize.pdf Graphic file (type pdf)
+<use untriggered_bguide_1_boxsize.pdf>
+Package pdftex.def Info: untriggered_bguide_1_boxsize.pdf  used on input line 3
+55.
+(pdftex.def)             Requested size: 426.39255pt x 321.71509pt.
+ [149] [150]
+<thickness_flds.pdf, id=3430, 426.40279pt x 365.75218pt>
+File: thickness_flds.pdf Graphic file (type pdf)
+<use thickness_flds.pdf>
+Package pdftex.def Info: thickness_flds.pdf  used on input line 368.
+(pdftex.def)             Requested size: 426.39255pt x 365.76244pt.
+<untrig_thickness_spec.pdf, id=3431, 440.16444pt x 332.1043pt>
+File: untrig_thickness_spec.pdf Graphic file (type pdf)
+<use untrig_thickness_spec.pdf>
+Package pdftex.def Info: untrig_thickness_spec.pdf  used on input line 374.
+(pdftex.def)             Requested size: 426.39255pt x 321.71509pt.
+<bg_spec_compare.pdf, id=3434, 440.16444pt x 332.1043pt>
+File: bg_spec_compare.pdf Graphic file (type pdf)
+<use bg_spec_compare.pdf>
+Package pdftex.def Info: bg_spec_compare.pdf  used on input line 383.
+(pdftex.def)             Requested size: 426.39255pt x 321.71509pt.
+<diffguide_flds.pdf, id=3435, 433.42905pt x 365.75218pt>
+File: diffguide_flds.pdf Graphic file (type pdf)
+<use diffguide_flds.pdf>
+Package pdftex.def Info: diffguide_flds.pdf  used on input line 389.
+(pdftex.def)             Requested size: 426.39255pt x 359.82991pt.
+) [151] [152 <./2x2_timespec_2comp_reord.pdf>] [153 <./bg3_singleplot_flds.pdf>
+] [154 <./bguide3_triggered_final2dhist_withmean15.pdf> <./bguide3_triggered_fi
+nal2dhist_withmean65.pdf
+
+pdfTeX warning: pdflatex.exe (file ./bguide3_triggered_final2dhist_withmean65.p
+df): PDF inclusion: multiple pdfs with page group included in a single page
+>] [155 <./manypart_wparz_deltagamma_log.pdf>] [156 <./bguide1_triggered_final2
+dhist_withmean15.pdf> <./bguide1_triggered_final2dhist_withmean65.pdf
+
+pdfTeX warning: pdflatex.exe (file ./bguide1_triggered_final2dhist_withmean65.p
+df): PDF inclusion: multiple pdfs with page group included in a single page
+>] [157 <./final_testprtl_bguide3_triggered065.pdf>] [158 <./final_testprtl_bgu
+ide1_triggered065.pdf>] [159 <./triggered_bguide_3_boxsize.pdf>] [160 <./untrig
+gered_bguide_3_boxsize.pdf>] [161 <./triggered_bguide_1_boxsize.pdf>] [162 <./u
+ntriggered_bguide_1_boxsize.pdf>] [163 <./thickness_flds.pdf>] [164 <./untrig_t
+hickness_spec.pdf>] [165 <./bg_spec_compare.pdf>] [166 <./diffguide_flds.pdf>]
 \openout2 = `appendix.aux'.
 
- (appendix.tex
+
+(appendix.tex
 APPENDIX A.
-) [39
+) [167
 
 
 
-]
-No file dissertation.bbl.
+] (dissertation.bbl [168
+
+
+] [169] [170] [171] [172] [173] [174] [175]
+[176] [177] [178] [179])
 
 Package natbib Warning: There were undefined citations.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 162.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 162.
-(dissertation.aux (introduction.aux) (chapter2.aux) (chapter3.aux)
-(chapter4.aux) (chapter5.aux) (appendix.aux))
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 162.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 162.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 161.
+[180]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 161.
+ (dissertation.aux (introduction.aux) (chapter2.aux) (cs_paper.aux)
+(recon_paper5.aux) (recon_acc_mec.aux) (appendix.aux))
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 161.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 161.
 Package rerunfilecheck Info: File `dissertation.out' has not changed.
-(rerunfilecheck)             Checksum: D6D7A4C8E41BB550D7B167254B21E74B;1975.
+(rerunfilecheck)             Checksum: C0F8BAD7F5F95106FC7B1BDC5224618D;5877.
 
 
 LaTeX Warning: There were undefined references.
 
 
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+LaTeX Warning: There were multiply-defined labels.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 162.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 161.
  ) 
 Here is how much of TeX's memory you used:
- 8989 strings out of 492946
- 135181 string characters out of 3126267
- 248391 words of memory out of 3000000
- 12618 multiletter control sequences out of 15000+200000
- 12351 words of font info for 45 fonts, out of 3000000 for 9000
+ 10240 strings out of 492946
+ 159530 string characters out of 3126267
+ 308332 words of memory out of 3000000
+ 13403 multiletter control sequences out of 15000+200000
+ 16807 words of font info for 62 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 46i,14n,41p,1706b,364s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 46i,14n,45p,3020b,648s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Users/David/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts
 /cm/cmbx12.pfb><C:/Users/David/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/pu
 blic/amsfonts/cm/cmex10.pfb><C:/Users/David/AppData/Local/Programs/MiKTeX 2.9/f
-onts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/David/AppData/Local/Programs
-/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/David/AppData/Lo
-cal/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Davi
-d/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:
-/Users/David/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/c
-mr8.pfb><C:/Users/David/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/am
-sfonts/cm/cmsy10.pfb><C:/Users/David/AppData/Local/Programs/MiKTeX 2.9/fonts/ty
-pe1/public/amsfonts/cm/cmsy8.pfb>
-Output written on dissertation.pdf (39 pages, 2306157 bytes).
+onts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/David/AppData/Local/Programs
+/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/David/AppData/L
+ocal/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi6.pfb><C:/Users/Dav
+id/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi7.pfb><
+C:/Users/David/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm
+/cmmi8.pfb><C:/Users/David/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public
+/amsfonts/cm/cmmib10.pfb><C:/Users/David/AppData/Local/Programs/MiKTeX 2.9/font
+s/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/David/AppData/Local/Programs/MiK
+TeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/David/AppData/Local/
+Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Users/David/App
+Data/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/User
+s/David/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.p
+fb><C:/Users/David/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfont
+s/cm/cmsl12.pfb><C:/Users/David/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/p
+ublic/amsfonts/cm/cmsy10.pfb><C:/Users/David/AppData/Local/Programs/MiKTeX 2.9/
+fonts/type1/public/amsfonts/cm/cmsy6.pfb><C:/Users/David/AppData/Local/Programs
+/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Users/David/AppData/Lo
+cal/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Users/Davi
+d/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti12.pfb><
+C:/Users/David/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/sy
+mbols/msam10.pfb><C:/Users/David/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/
+public/amsfonts/symbols/msbm10.pfb>
+Output written on dissertation.pdf (180 pages, 24915640 bytes).
 PDF statistics:
- 411 PDF objects out of 1000 (max. 8388607)
- 98 named destinations out of 1000 (max. 500000)
- 226 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 4508 PDF objects out of 5155 (max. 8388607)
+ 491 named destinations out of 1000 (max. 500000)
+ 888 words of extra memory for PDF output out of 10000 (max. 10000000)
 
